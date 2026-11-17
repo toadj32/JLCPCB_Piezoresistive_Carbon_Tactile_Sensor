@@ -1,0 +1,121 @@
+(footprint "Taxel_Faces"
+	(version 20260206)
+	(generator "pcbnew")
+	(generator_version "10.0")
+	(layer "F.Cu")
+	(property "Reference" "Taxel_Faces"
+		(at 0 -0.5 0)
+		(unlocked yes)
+		(layer "F.SilkS")
+		(hide yes)
+		(uuid "59aeba14-b1c0-46fd-9229-bee3cf2bc3a8")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.1)
+			)
+		)
+	)
+	(property "Value" "Taxel_Faces"
+		(at 0 1 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(uuid "ca7d3d90-4e6b-4709-b07f-aa8feebb3d10")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Datasheet" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "b4814e86-c9fb-4822-ae83-0f23c9016a24")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "93dfc8db-b65b-404f-bb7c-eef60a6801b9")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(attr smd)
+	(duplicate_pad_numbers_are_jumpers no)
+	(fp_rect
+		(start -3 -3)
+		(end 3 3)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(fill no)
+		(layer "F.SilkS")
+		(uuid "9395dd24-02da-4cc2-9bab-7924db49f693")
+	)
+	(fp_rect
+		(start -2.5 -2.5)
+		(end 2.5 2.5)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(fill no)
+		(layer "F.SilkS")
+		(uuid "8d6b40fe-cb4a-4d8d-acc7-74d295695fc2")
+	)
+	(fp_rect
+		(start -3 -3)
+		(end 3 3)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(fill no)
+		(layer "F.CrtYd")
+		(uuid "69a30301-7095-4e05-9f09-eed86a40b86a")
+	)
+	(pad "1" smd trapezoid
+		(at 1.3969 0 90)
+		(size 2.2063 2.2163)
+		(rect_delta 0 2.2063)
+		(layers "F.Cu" "F.Mask")
+		(uuid "2237e0c2-5e0f-4ec1-aa81-76dc9e7960f6")
+	)
+	(pad "2" smd trapezoid
+		(at -1.3969 0 270)
+		(size 2.2063 2.2163)
+		(rect_delta 0 2.2063)
+		(layers "F.Cu" "F.Mask")
+		(uuid "a106980c-1c67-4c93-a102-5bb06d0fe622")
+	)
+	(pad "3" smd trapezoid
+		(at 0 -1.3969)
+		(size 2.2063 2.2163)
+		(rect_delta 0 -2.2063)
+		(layers "F.Cu" "F.Mask")
+		(uuid "955e8c4e-072c-487a-800b-d9b75fc665a6")
+	)
+	(pad "4" smd trapezoid
+		(at 0 1.3969)
+		(size 2.2063 2.2163)
+		(rect_delta 0 2.2063)
+		(layers "F.Cu" "F.Mask")
+		(uuid "f931cee8-50fd-4e70-9db2-f04ce46b2da1")
+	)
+	(embedded_fonts no)
+)

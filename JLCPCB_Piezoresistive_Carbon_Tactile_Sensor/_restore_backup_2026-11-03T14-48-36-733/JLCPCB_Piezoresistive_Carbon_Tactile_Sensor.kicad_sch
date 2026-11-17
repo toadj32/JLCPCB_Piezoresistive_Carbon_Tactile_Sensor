@@ -1,0 +1,6672 @@
+(kicad_sch
+	(version 20260306)
+	(generator "eeschema")
+	(generator_version "10.0")
+	(uuid "120beb98-da1d-4151-b387-2a3ec3985030")
+	(paper "A4")
+	(lib_symbols
+		(symbol "Connector:Conn_01x24_Pin"
+			(pin_names
+				(offset 1.016)
+				(hide yes)
+			)
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(in_pos_files yes)
+			(duplicate_pin_numbers_are_jumpers no)
+			(property "Reference" "J"
+				(at 0 30.48 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Value" "Conn_01x24_Pin"
+				(at 0 -33.02 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Footprint" ""
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Datasheet" ""
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Description" "Generic connector, single row, 01x24, script generated"
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "ki_locked" ""
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "ki_keywords" "connector"
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "ki_fp_filters" "Connector*:*_1x??_*"
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(symbol "Conn_01x24_Pin_1_1"
+				(rectangle
+					(start 0.8636 28.067)
+					(end 0 27.813)
+					(stroke
+						(width 0.1524)
+						(type default)
+					)
+					(fill
+						(type outline)
+					)
+				)
+				(rectangle
+					(start 0.8636 25.527)
+					(end 0 25.273)
+					(stroke
+						(width 0.1524)
+						(type default)
+					)
+					(fill
+						(type outline)
+					)
+				)
+				(rectangle
+					(start 0.8636 22.987)
+					(end 0 22.733)
+					(stroke
+						(width 0.1524)
+						(type default)
+					)
+					(fill
+						(type outline)
+					)
+				)
+				(rectangle
+					(start 0.8636 20.447)
+					(end 0 20.193)
+					(stroke
+						(width 0.1524)
+						(type default)
+					)
+					(fill
+						(type outline)
+					)
+				)
+				(rectangle
+					(start 0.8636 17.907)
+					(end 0 17.653)
+					(stroke
+						(width 0.1524)
+						(type default)
+					)
+					(fill
+						(type outline)
+					)
+				)
+				(rectangle
+					(start 0.8636 15.367)
+					(end 0 15.113)
+					(stroke
+						(width 0.1524)
+						(type default)
+					)
+					(fill
+						(type outline)
+					)
+				)
+				(rectangle
+					(start 0.8636 12.827)
+					(end 0 12.573)
+					(stroke
+						(width 0.1524)
+						(type default)
+					)
+					(fill
+						(type outline)
+					)
+				)
+				(rectangle
+					(start 0.8636 10.287)
+					(end 0 10.033)
+					(stroke
+						(width 0.1524)
+						(type default)
+					)
+					(fill
+						(type outline)
+					)
+				)
+				(rectangle
+					(start 0.8636 7.747)
+					(end 0 7.493)
+					(stroke
+						(width 0.1524)
+						(type default)
+					)
+					(fill
+						(type outline)
+					)
+				)
+				(rectangle
+					(start 0.8636 5.207)
+					(end 0 4.953)
+					(stroke
+						(width 0.1524)
+						(type default)
+					)
+					(fill
+						(type outline)
+					)
+				)
+				(rectangle
+					(start 0.8636 2.667)
+					(end 0 2.413)
+					(stroke
+						(width 0.1524)
+						(type default)
+					)
+					(fill
+						(type outline)
+					)
+				)
+				(rectangle
+					(start 0.8636 0.127)
+					(end 0 -0.127)
+					(stroke
+						(width 0.1524)
+						(type default)
+					)
+					(fill
+						(type outline)
+					)
+				)
+				(rectangle
+					(start 0.8636 -2.413)
+					(end 0 -2.667)
+					(stroke
+						(width 0.1524)
+						(type default)
+					)
+					(fill
+						(type outline)
+					)
+				)
+				(rectangle
+					(start 0.8636 -4.953)
+					(end 0 -5.207)
+					(stroke
+						(width 0.1524)
+						(type default)
+					)
+					(fill
+						(type outline)
+					)
+				)
+				(rectangle
+					(start 0.8636 -7.493)
+					(end 0 -7.747)
+					(stroke
+						(width 0.1524)
+						(type default)
+					)
+					(fill
+						(type outline)
+					)
+				)
+				(rectangle
+					(start 0.8636 -10.033)
+					(end 0 -10.287)
+					(stroke
+						(width 0.1524)
+						(type default)
+					)
+					(fill
+						(type outline)
+					)
+				)
+				(rectangle
+					(start 0.8636 -12.573)
+					(end 0 -12.827)
+					(stroke
+						(width 0.1524)
+						(type default)
+					)
+					(fill
+						(type outline)
+					)
+				)
+				(rectangle
+					(start 0.8636 -15.113)
+					(end 0 -15.367)
+					(stroke
+						(width 0.1524)
+						(type default)
+					)
+					(fill
+						(type outline)
+					)
+				)
+				(rectangle
+					(start 0.8636 -17.653)
+					(end 0 -17.907)
+					(stroke
+						(width 0.1524)
+						(type default)
+					)
+					(fill
+						(type outline)
+					)
+				)
+				(rectangle
+					(start 0.8636 -20.193)
+					(end 0 -20.447)
+					(stroke
+						(width 0.1524)
+						(type default)
+					)
+					(fill
+						(type outline)
+					)
+				)
+				(rectangle
+					(start 0.8636 -22.733)
+					(end 0 -22.987)
+					(stroke
+						(width 0.1524)
+						(type default)
+					)
+					(fill
+						(type outline)
+					)
+				)
+				(rectangle
+					(start 0.8636 -25.273)
+					(end 0 -25.527)
+					(stroke
+						(width 0.1524)
+						(type default)
+					)
+					(fill
+						(type outline)
+					)
+				)
+				(rectangle
+					(start 0.8636 -27.813)
+					(end 0 -28.067)
+					(stroke
+						(width 0.1524)
+						(type default)
+					)
+					(fill
+						(type outline)
+					)
+				)
+				(rectangle
+					(start 0.8636 -30.353)
+					(end 0 -30.607)
+					(stroke
+						(width 0.1524)
+						(type default)
+					)
+					(fill
+						(type outline)
+					)
+				)
+				(polyline
+					(pts
+						(xy 1.27 27.94) (xy 0.8636 27.94)
+					)
+					(stroke
+						(width 0.1524)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 1.27 25.4) (xy 0.8636 25.4)
+					)
+					(stroke
+						(width 0.1524)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 1.27 22.86) (xy 0.8636 22.86)
+					)
+					(stroke
+						(width 0.1524)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 1.27 20.32) (xy 0.8636 20.32)
+					)
+					(stroke
+						(width 0.1524)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 1.27 17.78) (xy 0.8636 17.78)
+					)
+					(stroke
+						(width 0.1524)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 1.27 15.24) (xy 0.8636 15.24)
+					)
+					(stroke
+						(width 0.1524)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 1.27 12.7) (xy 0.8636 12.7)
+					)
+					(stroke
+						(width 0.1524)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 1.27 10.16) (xy 0.8636 10.16)
+					)
+					(stroke
+						(width 0.1524)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 1.27 7.62) (xy 0.8636 7.62)
+					)
+					(stroke
+						(width 0.1524)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 1.27 5.08) (xy 0.8636 5.08)
+					)
+					(stroke
+						(width 0.1524)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 1.27 2.54) (xy 0.8636 2.54)
+					)
+					(stroke
+						(width 0.1524)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 1.27 0) (xy 0.8636 0)
+					)
+					(stroke
+						(width 0.1524)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 1.27 -2.54) (xy 0.8636 -2.54)
+					)
+					(stroke
+						(width 0.1524)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 1.27 -5.08) (xy 0.8636 -5.08)
+					)
+					(stroke
+						(width 0.1524)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 1.27 -7.62) (xy 0.8636 -7.62)
+					)
+					(stroke
+						(width 0.1524)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 1.27 -10.16) (xy 0.8636 -10.16)
+					)
+					(stroke
+						(width 0.1524)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 1.27 -12.7) (xy 0.8636 -12.7)
+					)
+					(stroke
+						(width 0.1524)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 1.27 -15.24) (xy 0.8636 -15.24)
+					)
+					(stroke
+						(width 0.1524)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 1.27 -17.78) (xy 0.8636 -17.78)
+					)
+					(stroke
+						(width 0.1524)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 1.27 -20.32) (xy 0.8636 -20.32)
+					)
+					(stroke
+						(width 0.1524)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 1.27 -22.86) (xy 0.8636 -22.86)
+					)
+					(stroke
+						(width 0.1524)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 1.27 -25.4) (xy 0.8636 -25.4)
+					)
+					(stroke
+						(width 0.1524)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 1.27 -27.94) (xy 0.8636 -27.94)
+					)
+					(stroke
+						(width 0.1524)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 1.27 -30.48) (xy 0.8636 -30.48)
+					)
+					(stroke
+						(width 0.1524)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(pin passive line
+					(at 5.08 27.94 180)
+					(length 3.81)
+					(name "Pin_1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 5.08 25.4 180)
+					(length 3.81)
+					(name "Pin_2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 5.08 22.86 180)
+					(length 3.81)
+					(name "Pin_3"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "3"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 5.08 20.32 180)
+					(length 3.81)
+					(name "Pin_4"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "4"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 5.08 17.78 180)
+					(length 3.81)
+					(name "Pin_5"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "5"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 5.08 15.24 180)
+					(length 3.81)
+					(name "Pin_6"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "6"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 5.08 12.7 180)
+					(length 3.81)
+					(name "Pin_7"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "7"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 5.08 10.16 180)
+					(length 3.81)
+					(name "Pin_8"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "8"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 5.08 7.62 180)
+					(length 3.81)
+					(name "Pin_9"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "9"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 5.08 5.08 180)
+					(length 3.81)
+					(name "Pin_10"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "10"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 5.08 2.54 180)
+					(length 3.81)
+					(name "Pin_11"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "11"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 5.08 0 180)
+					(length 3.81)
+					(name "Pin_12"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "12"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 5.08 -2.54 180)
+					(length 3.81)
+					(name "Pin_13"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "13"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 5.08 -5.08 180)
+					(length 3.81)
+					(name "Pin_14"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "14"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 5.08 -7.62 180)
+					(length 3.81)
+					(name "Pin_15"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "15"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 5.08 -10.16 180)
+					(length 3.81)
+					(name "Pin_16"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "16"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 5.08 -12.7 180)
+					(length 3.81)
+					(name "Pin_17"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "17"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 5.08 -15.24 180)
+					(length 3.81)
+					(name "Pin_18"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "18"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 5.08 -17.78 180)
+					(length 3.81)
+					(name "Pin_19"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "19"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 5.08 -20.32 180)
+					(length 3.81)
+					(name "Pin_20"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "20"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 5.08 -22.86 180)
+					(length 3.81)
+					(name "Pin_21"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "21"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 5.08 -25.4 180)
+					(length 3.81)
+					(name "Pin_22"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "22"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 5.08 -27.94 180)
+					(length 3.81)
+					(name "Pin_23"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "23"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 5.08 -30.48 180)
+					(length 3.81)
+					(name "Pin_24"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "24"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+			(embedded_fonts no)
+		)
+		(symbol "tactile_sensor:Taxel_Pyramid"
+			(exclude_from_sim yes)
+			(in_bom no)
+			(on_board yes)
+			(in_pos_files yes)
+			(duplicate_pin_numbers_are_jumpers no)
+			(property "Reference" "T"
+				(at 0 9.652 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Value" "Taxel_Pyramid"
+				(at 0 -7.62 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Footprint" "tactile_sensor: Taxel_Pyramid"
+				(at -0.508 -7.62 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Datasheet" ""
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Description" ""
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(symbol "Taxel_Pyramid_0_1"
+				(rectangle
+					(start -5.08 5.08)
+					(end 5.08 -5.08)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy -5.08 5.08) (xy 5.08 -5.08)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy -5.08 -5.08) (xy 5.08 5.08)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+			)
+			(symbol "Taxel_Pyramid_1_1"
+				(pin passive line
+					(at -7.62 -1.27 0)
+					(length 2.54)
+					(name "XP"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at -7.62 1.27 0)
+					(length 2.54)
+					(name "XN"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at -1.27 7.62 270)
+					(length 2.54)
+					(name "YP"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "3"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 1.27 7.62 270)
+					(length 2.54)
+					(name "YN"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "4"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+			(embedded_fonts no)
+		)
+	)
+	(text "tail out to connect to 24 pin zif connector\n1.0 mm pitch and 0.3 mm flex thickness\n"
+		(exclude_from_sim no)
+		(at 218.694 123.952 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "a85dd6bc-1746-43b8-9050-d9e9e21943d1")
+	)
+	(junction
+		(at 113.03 116.84)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "0241ce4a-5aab-4773-a8e4-9231252363f6")
+	)
+	(junction
+		(at 77.47 87.63)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "024db766-77b6-4c9e-974a-08e7e6e301e7")
+	)
+	(junction
+		(at 102.87 106.68)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "08e17a87-e610-4e95-b8f2-02e8d5cea291")
+	)
+	(junction
+		(at 148.59 114.3)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "0a8f7c43-e266-4e02-9919-f635fb5dfc07")
+	)
+	(junction
+		(at 63.5 78.74)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "1519fdc4-e446-47d1-8ce5-c912c7e520f9")
+	)
+	(junction
+		(at 113.03 97.79)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "170d69ce-70ea-4b36-b62a-4348068e03e6")
+	)
+	(junction
+		(at 57.15 102.87)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "1fc878df-5837-4f9a-9b48-3eeb53a9db7b")
+	)
+	(junction
+		(at 57.15 121.92)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "20ff3612-a6f9-4604-b126-fa4518ad386b")
+	)
+	(junction
+		(at 119.38 114.3)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "22da9732-4d71-4c6f-bec1-6bc29050cf59")
+	)
+	(junction
+		(at 130.81 87.63)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "26b61b35-1527-497b-84c5-3b908a23a69b")
+	)
+	(junction
+		(at 133.35 102.87)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "26c7d994-4707-464e-bb36-a1c5144ac799")
+	)
+	(junction
+		(at 54.61 125.73)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "271864e5-6ad0-456e-9b16-4f3a6b0087b9")
+	)
+	(junction
+		(at 77.47 106.68)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "2937feb4-c347-4f5f-a8a8-58aff9deb1be")
+	)
+	(junction
+		(at 148.59 55.88)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "2cc272dd-7959-496b-af73-76b5d357f0ad")
+	)
+	(junction
+		(at 105.41 64.77)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "30e14bef-4c83-478c-9465-2aa2462996eb")
+	)
+	(junction
+		(at 54.61 68.58)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "3173298f-3e4d-422e-a08e-f2aa63cb227e")
+	)
+	(junction
+		(at 69.85 114.3)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "36e0c8de-7e2a-42cf-832b-fed5f5f4e8ff")
+	)
+	(junction
+		(at 148.59 95.25)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "445ea47c-7ffe-48aa-bdfa-bcd658bd0e9d")
+	)
+	(junction
+		(at 119.38 76.2)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "44f248ee-77e4-447b-b365-07b65a64bd68")
+	)
+	(junction
+		(at 119.38 95.25)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "4aafed03-b68c-4840-9140-de69c3ec949c")
+	)
+	(junction
+		(at 133.35 83.82)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "50e2a9ab-5f24-4012-af2c-616103862e5d")
+	)
+	(junction
+		(at 102.87 48.26)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "5730549f-0fde-4534-88e2-20cf86339878")
+	)
+	(junction
+		(at 86.36 97.79)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "5b43a828-1baa-4ade-ac4d-08dc1e6ad7b5")
+	)
+	(junction
+		(at 39.37 116.84)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "5bea8701-0447-417a-ae51-574b81208174")
+	)
+	(junction
+		(at 105.41 83.82)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "5d18eab0-1497-41b4-a2b3-9248128bcddf")
+	)
+	(junction
+		(at 86.36 58.42)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "606bd7e0-e25b-404e-9565-13757509f180")
+	)
+	(junction
+		(at 77.47 125.73)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "650a4cfd-c26d-46fc-9799-595f9d284584")
+	)
+	(junction
+		(at 77.47 48.26)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "69857886-6699-47d8-b6a2-c8f1fe54b7ba")
+	)
+	(junction
+		(at 133.35 64.77)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "6a1dd21a-5d1f-402b-b6b6-c97e61e2341d")
+	)
+	(junction
+		(at 130.81 106.68)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "6bdc870b-a1c2-4808-9be3-418f1fdd59a9")
+	)
+	(junction
+		(at 92.71 114.3)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "72550f74-f81b-4d6f-91a5-dcbc4acc097a")
+	)
+	(junction
+		(at 113.03 58.42)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "74873d50-3d76-4f02-84b5-8ed0142401c6")
+	)
+	(junction
+		(at 54.61 106.68)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "74b91305-adc2-4b19-a36c-7de35fbf4a75")
+	)
+	(junction
+		(at 54.61 87.63)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "7500d47e-8125-41dd-9629-1093199c13a8")
+	)
+	(junction
+		(at 80.01 83.82)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "83695f1a-af21-48f8-8d7b-c35ebb165ea1")
+	)
+	(junction
+		(at 119.38 55.88)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "85aa23e9-bf53-4d53-8deb-224b8de4baf5")
+	)
+	(junction
+		(at 46.99 114.3)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "879cea97-f4a6-4a8f-864e-267e7e5901fe")
+	)
+	(junction
+		(at 80.01 121.92)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "884351ec-49e8-4528-bf85-44cc0bf7555b")
+	)
+	(junction
+		(at 142.24 78.74)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "8b93c9af-6047-47e0-b25b-c0beeb2d656f")
+	)
+	(junction
+		(at 63.5 58.42)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "8ba9eb4f-1635-4eef-a85f-dbf5ab6a837b")
+	)
+	(junction
+		(at 142.24 97.79)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "8f80d8ff-3d18-4692-af31-fb3926b94e0e")
+	)
+	(junction
+		(at 39.37 58.42)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "903cb08c-929e-4933-a042-31d97b80388f")
+	)
+	(junction
+		(at 57.15 64.77)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "9058bd51-68d7-4cfd-8b90-1b3335561b28")
+	)
+	(junction
+		(at 105.41 121.92)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "9411c57d-201b-4db1-8a8d-e607c8bc5869")
+	)
+	(junction
+		(at 113.03 78.74)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "95bf7942-ef40-451b-aeb2-da0f718078de")
+	)
+	(junction
+		(at 39.37 97.79)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "961bbd0f-ac1d-4efc-9347-9286e7993af5")
+	)
+	(junction
+		(at 148.59 76.2)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "97fb923c-1ff4-49b0-8eeb-20af342125f0")
+	)
+	(junction
+		(at 142.24 116.84)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "98cf16c8-eb49-4ea9-97c3-e38693078823")
+	)
+	(junction
+		(at 92.71 95.25)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "99c1de40-8c79-4635-b763-5cde07e972b5")
+	)
+	(junction
+		(at 69.85 76.2)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "a1695f43-aa75-4f1a-a9af-b2f6d4b2be48")
+	)
+	(junction
+		(at 77.47 68.58)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "a35fd67c-8c84-4be4-95a9-5e878b5ad0e2")
+	)
+	(junction
+		(at 105.41 44.45)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "a746ecc7-82cc-4185-9bf8-10a6cb002691")
+	)
+	(junction
+		(at 130.81 68.58)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "aa96fb56-e8b9-4d04-b475-781a2f8da9f7")
+	)
+	(junction
+		(at 46.99 95.25)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "aa9f1483-46c6-4ea3-b3d9-5b67cbf8f622")
+	)
+	(junction
+		(at 80.01 102.87)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "afe79ad2-8e3b-48c6-ae92-8c1220cc6828")
+	)
+	(junction
+		(at 130.81 125.73)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "b036fb7e-950c-4063-9f86-bf5a09efc136")
+	)
+	(junction
+		(at 69.85 95.25)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "b347910f-34ec-49e7-bd50-cb3242e7c80f")
+	)
+	(junction
+		(at 57.15 83.82)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "b45b16cd-ee0e-47c1-ba0c-a64cecc41d68")
+	)
+	(junction
+		(at 102.87 87.63)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "b5e8e69b-d4c6-4de1-ba38-93d9df8fee74")
+	)
+	(junction
+		(at 130.81 48.26)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "b891759f-58e4-410c-abe7-4abc2c108bad")
+	)
+	(junction
+		(at 105.41 102.87)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "bb529f8f-a437-437b-9505-9c3d34dbdf8a")
+	)
+	(junction
+		(at 57.15 44.45)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "bc60cd4c-a692-4472-9dd7-a1f312924d37")
+	)
+	(junction
+		(at 133.35 44.45)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "c7e12aa1-ac8c-4450-9052-97aceca4b59f")
+	)
+	(junction
+		(at 86.36 116.84)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "d122fdc7-0605-4411-9125-7b6df7a81eae")
+	)
+	(junction
+		(at 92.71 55.88)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "d13fd0f4-7358-45f2-a2c6-f794381feb2d")
+	)
+	(junction
+		(at 63.5 97.79)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "d6d19c3f-f422-4d9b-a36c-47b5db4dd0ee")
+	)
+	(junction
+		(at 142.24 58.42)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "d70fa196-e031-40eb-b48f-77a98d6f3d4b")
+	)
+	(junction
+		(at 46.99 55.88)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "e088e28b-ebcc-4341-a1a9-30f0ea8f6283")
+	)
+	(junction
+		(at 133.35 121.92)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "e54a9e26-189b-48f0-8a29-69e3554d1f9e")
+	)
+	(junction
+		(at 86.36 78.74)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "e55bdbf6-80ce-435f-967a-b635a7c8ee0e")
+	)
+	(junction
+		(at 80.01 44.45)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "eba7322a-324b-48a1-9bf3-dc2dce3ea3dd")
+	)
+	(junction
+		(at 39.37 78.74)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "ebc20cb8-dcdd-498a-a29f-9c3f9a21a829")
+	)
+	(junction
+		(at 54.61 48.26)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "ebcced95-25c4-4b7a-ba58-87197c58f49a")
+	)
+	(junction
+		(at 80.01 64.77)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "ebdc8186-725b-45c2-bad1-22a4aa84687a")
+	)
+	(junction
+		(at 46.99 76.2)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "f2f05442-b51d-42c8-8333-973aa9def373")
+	)
+	(junction
+		(at 102.87 125.73)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "f4babeab-f879-4ad1-8695-676fb93a6186")
+	)
+	(junction
+		(at 69.85 55.88)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "f4dd35ca-5437-4c39-89ed-529be508d90f")
+	)
+	(junction
+		(at 102.87 68.58)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "f74d8063-953f-48aa-8883-66fe6f271508")
+	)
+	(junction
+		(at 63.5 116.84)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "ff0506bf-c184-4265-aea2-0935993e536e")
+	)
+	(junction
+		(at 92.71 76.2)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "ffe9b9ee-c1b4-49ec-815b-f9dbc32d46d7")
+	)
+	(no_connect
+		(at 203.2 111.76)
+		(uuid "02f11f23-7bbb-47f1-b12f-3e104dad4376")
+	)
+	(no_connect
+		(at 203.2 114.3)
+		(uuid "0b3d19d3-56f1-42a4-9fce-bce765873995")
+	)
+	(no_connect
+		(at 203.2 55.88)
+		(uuid "50431a62-98d7-4156-bf6d-02a8c50d0aed")
+	)
+	(no_connect
+		(at 203.2 58.42)
+		(uuid "f71f7ad7-2703-46f2-b9b8-e83f4348391d")
+	)
+	(wire
+		(pts
+			(xy 142.24 78.74) (xy 142.24 97.79)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "0060eb5b-d725-44ad-9a50-82438ced5125")
+	)
+	(wire
+		(pts
+			(xy 148.59 133.35) (xy 152.4 133.35)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "0097a687-4cd3-4bb0-b1fa-7936d203113f")
+	)
+	(wire
+		(pts
+			(xy 36.83 48.26) (xy 54.61 48.26)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "0245ddb0-2476-4e5b-8590-67bb94ff7b52")
+	)
+	(wire
+		(pts
+			(xy 158.75 48.26) (xy 158.75 49.53)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "02d3978d-24b6-4109-811a-cfdf7f0fe64e")
+	)
+	(wire
+		(pts
+			(xy 69.85 39.37) (xy 69.85 55.88)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "032507cb-f343-476e-8a84-50a7636d4621")
+	)
+	(wire
+		(pts
+			(xy 80.01 64.77) (xy 105.41 64.77)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "03ea48bd-7656-42ce-890e-59d1161ec73c")
+	)
+	(wire
+		(pts
+			(xy 54.61 125.73) (xy 54.61 127)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "045dca10-724a-4b07-b1df-9ddf55fa25f5")
+	)
+	(wire
+		(pts
+			(xy 142.24 135.89) (xy 152.4 135.89)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "04bb82a5-b771-4d7e-978e-a06c9daa4eaa")
+	)
+	(wire
+		(pts
+			(xy 148.59 55.88) (xy 152.4 55.88)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "05c4f76c-76e4-446b-8f36-7197db5f1ac7")
+	)
+	(wire
+		(pts
+			(xy 130.81 125.73) (xy 130.81 127)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "081d4019-b803-4c58-8195-0511385a8dfd")
+	)
+	(wire
+		(pts
+			(xy 148.59 95.25) (xy 148.59 114.3)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "08486380-0d63-4659-939a-d36dabe0e633")
+	)
+	(wire
+		(pts
+			(xy 86.36 97.79) (xy 86.36 116.84)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "08e39054-8c5c-4681-87ea-0f18d674dd3a")
+	)
+	(wire
+		(pts
+			(xy 113.03 39.37) (xy 113.03 58.42)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "09e5fff2-de4b-42e1-b702-9128fcd17048")
+	)
+	(wire
+		(pts
+			(xy 205.74 106.68) (xy 203.2 106.68)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "0c2bf8a3-db75-4cb7-9449-7424e00a4243")
+	)
+	(wire
+		(pts
+			(xy 205.74 81.28) (xy 203.2 81.28)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "0c6fc1d8-722d-4315-be08-e7577a52b1c8")
+	)
+	(wire
+		(pts
+			(xy 130.81 106.68) (xy 158.75 106.68)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "0c70e1ac-eccb-4167-8e53-3bba0ecb31b1")
+	)
+	(wire
+		(pts
+			(xy 69.85 76.2) (xy 71.12 76.2)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "0c95dbb9-9c71-4230-bc7c-719709b022fb")
+	)
+	(wire
+		(pts
+			(xy 142.24 97.79) (xy 152.4 97.79)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "0ceaf8f7-6d69-49da-9091-f432940b0708")
+	)
+	(wire
+		(pts
+			(xy 142.24 58.42) (xy 152.4 58.42)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "0e9f4304-85a6-49e9-8c3a-5f622edef08c")
+	)
+	(wire
+		(pts
+			(xy 92.71 76.2) (xy 96.52 76.2)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "0f2b6514-838d-4ae3-8972-18d72b3c3de8")
+	)
+	(wire
+		(pts
+			(xy 57.15 44.45) (xy 57.15 49.53)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "1433fe3e-4111-4190-bc6b-505fa6fb66a5")
+	)
+	(wire
+		(pts
+			(xy 92.71 95.25) (xy 96.52 95.25)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "1458bb71-8a29-4f7d-9e76-d089715c43bd")
+	)
+	(wire
+		(pts
+			(xy 92.71 55.88) (xy 92.71 76.2)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "1499293a-ee4c-4317-a456-45696cc51849")
+	)
+	(wire
+		(pts
+			(xy 105.41 83.82) (xy 133.35 83.82)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "161addd6-5638-4b61-bccf-059a1e4c28e2")
+	)
+	(wire
+		(pts
+			(xy 80.01 121.92) (xy 105.41 121.92)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "168bff66-8d2d-484e-af0f-f807b509fdc6")
+	)
+	(wire
+		(pts
+			(xy 205.74 71.12) (xy 203.2 71.12)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "19263a03-e75c-4c5f-9e01-1db27607bc99")
+	)
+	(wire
+		(pts
+			(xy 205.74 68.58) (xy 203.2 68.58)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "193b5136-9916-4171-9c5a-e542d4ce29b5")
+	)
+	(wire
+		(pts
+			(xy 142.24 58.42) (xy 142.24 78.74)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "1a92745a-65b0-406b-a11c-8cdd48bfea84")
+	)
+	(wire
+		(pts
+			(xy 39.37 116.84) (xy 39.37 97.79)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "1aea145e-ed96-4377-b99e-d2c717d4f4d3")
+	)
+	(wire
+		(pts
+			(xy 80.01 121.92) (xy 80.01 127)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "1c318a19-4577-438f-8c01-0407cf473242")
+	)
+	(wire
+		(pts
+			(xy 36.83 125.73) (xy 54.61 125.73)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "1c31a320-e962-4ba7-9e73-82f242c18f92")
+	)
+	(wire
+		(pts
+			(xy 133.35 121.92) (xy 133.35 127)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "1c775356-aee1-4629-b5a2-50a5d734c0f4")
+	)
+	(wire
+		(pts
+			(xy 148.59 76.2) (xy 152.4 76.2)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "1ee1f86d-589a-4e13-91d0-8999e7f01631")
+	)
+	(wire
+		(pts
+			(xy 77.47 68.58) (xy 77.47 69.85)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "20e5a241-108e-4858-95f0-571b96cf8fd7")
+	)
+	(wire
+		(pts
+			(xy 205.74 96.52) (xy 203.2 96.52)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "20f5831b-bd2f-49ab-9c0e-a9e7c632046f")
+	)
+	(wire
+		(pts
+			(xy 119.38 76.2) (xy 124.46 76.2)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "2229383a-cf44-4c75-9ba3-98e96ed38034")
+	)
+	(wire
+		(pts
+			(xy 86.36 58.42) (xy 96.52 58.42)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "241d676b-1e77-4f57-9ead-f384c2ed3da4")
+	)
+	(wire
+		(pts
+			(xy 92.71 95.25) (xy 92.71 114.3)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "24887ce0-e537-434d-b966-5dfe827951db")
+	)
+	(wire
+		(pts
+			(xy 46.99 76.2) (xy 46.99 95.25)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "24f39771-6d3f-446b-92b0-006e90b930dc")
+	)
+	(wire
+		(pts
+			(xy 48.26 55.88) (xy 46.99 55.88)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "262572ea-f8e0-4e8c-aa9b-9a5b51a41f85")
+	)
+	(wire
+		(pts
+			(xy 161.29 102.87) (xy 161.29 107.95)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "267b60b6-4f20-4abf-b117-4d541ff99740")
+	)
+	(wire
+		(pts
+			(xy 133.35 83.82) (xy 161.29 83.82)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "28da7176-0583-477b-a2ac-dd353d8385c1")
+	)
+	(wire
+		(pts
+			(xy 205.74 60.96) (xy 203.2 60.96)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "2a27544d-7929-4917-8b71-ebd664a013ff")
+	)
+	(wire
+		(pts
+			(xy 77.47 125.73) (xy 77.47 127)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "2adc1a91-2a40-4beb-a5c4-26489d4189b9")
+	)
+	(wire
+		(pts
+			(xy 46.99 55.88) (xy 46.99 76.2)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "2b227442-9c4e-4f2a-921b-e0e500c37e1b")
+	)
+	(wire
+		(pts
+			(xy 48.26 97.79) (xy 39.37 97.79)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "2bce8604-747f-4c7c-bd16-9632a568a780")
+	)
+	(wire
+		(pts
+			(xy 54.61 106.68) (xy 77.47 106.68)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "2c24e4b7-fe12-4afe-a76f-9da5074f429a")
+	)
+	(wire
+		(pts
+			(xy 36.83 64.77) (xy 57.15 64.77)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "2c3393f3-24d8-47af-808d-a603cff5de34")
+	)
+	(wire
+		(pts
+			(xy 161.29 44.45) (xy 161.29 49.53)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "2cc18083-9f46-4f0f-b70e-eda3f9f6d772")
+	)
+	(wire
+		(pts
+			(xy 148.59 114.3) (xy 152.4 114.3)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "2e23a352-a543-44a5-803a-4b00b7e983dd")
+	)
+	(wire
+		(pts
+			(xy 158.75 106.68) (xy 158.75 107.95)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "2ec16735-210b-49a4-a0ed-19c5b893f056")
+	)
+	(wire
+		(pts
+			(xy 102.87 48.26) (xy 102.87 49.53)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "3124490e-b3ce-4f02-b430-705a2e0c10b8")
+	)
+	(wire
+		(pts
+			(xy 133.35 64.77) (xy 161.29 64.77)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "32ab88b7-4216-47e4-a9b7-4b7817f4c2b9")
+	)
+	(wire
+		(pts
+			(xy 113.03 97.79) (xy 113.03 116.84)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "365b9eff-dc0a-43d6-8e63-5c5c0f42fc77")
+	)
+	(wire
+		(pts
+			(xy 86.36 116.84) (xy 86.36 135.89)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "383c0351-ebf5-43ae-b5ad-673380c5bc66")
+	)
+	(wire
+		(pts
+			(xy 54.61 87.63) (xy 54.61 88.9)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "3a93e8c1-df46-47e5-9d11-82fab648bfa1")
+	)
+	(wire
+		(pts
+			(xy 148.59 114.3) (xy 148.59 133.35)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "3a97fa3b-1e60-468c-8ce0-6f5a15d81813")
+	)
+	(wire
+		(pts
+			(xy 119.38 133.35) (xy 124.46 133.35)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "3b58ded5-c4b2-4ee9-af92-d029600c22e2")
+	)
+	(wire
+		(pts
+			(xy 77.47 68.58) (xy 102.87 68.58)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "3b5a68b7-7c61-44ca-b5e3-316d153fd2fd")
+	)
+	(wire
+		(pts
+			(xy 113.03 116.84) (xy 124.46 116.84)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "3c7a2aec-c3c4-4eb0-8f33-6ca93553ce52")
+	)
+	(wire
+		(pts
+			(xy 86.36 78.74) (xy 86.36 97.79)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "3c7ca8a1-2a57-4c2d-88db-3f57f53ac8e2")
+	)
+	(wire
+		(pts
+			(xy 102.87 106.68) (xy 102.87 107.95)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "3d481ebf-19b8-4bde-b1d5-cac2badb5a4a")
+	)
+	(wire
+		(pts
+			(xy 57.15 64.77) (xy 57.15 69.85)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "3e8dc0ad-8630-451b-adb2-1dfe92089248")
+	)
+	(wire
+		(pts
+			(xy 102.87 68.58) (xy 130.81 68.58)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "3f4f1039-a030-4c60-b2d3-ccd3cdf675e1")
+	)
+	(wire
+		(pts
+			(xy 142.24 39.37) (xy 142.24 58.42)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "441c3c1c-e56d-4446-b42f-3d4be9be90c3")
+	)
+	(wire
+		(pts
+			(xy 36.83 102.87) (xy 57.15 102.87)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "4439daa3-1904-421e-a70c-7a378f930789")
+	)
+	(wire
+		(pts
+			(xy 86.36 58.42) (xy 86.36 78.74)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "44f84303-a433-40e5-ae0e-4d32e77081db")
+	)
+	(wire
+		(pts
+			(xy 80.01 83.82) (xy 80.01 88.9)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "45ed7326-55c2-47b5-b338-03976d621ca3")
+	)
+	(wire
+		(pts
+			(xy 92.71 114.3) (xy 92.71 133.35)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "4641ee71-bce2-47cc-aaef-b64b70140423")
+	)
+	(wire
+		(pts
+			(xy 48.26 76.2) (xy 46.99 76.2)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "466f2646-22a7-441d-8d5e-44fe8d3d127d")
+	)
+	(wire
+		(pts
+			(xy 119.38 39.37) (xy 119.38 55.88)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "48eca34f-44af-47e3-9834-967c63b9e6a3")
+	)
+	(wire
+		(pts
+			(xy 105.41 64.77) (xy 105.41 69.85)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "496073ba-d1a1-4363-aba9-01deb01cb17f")
+	)
+	(wire
+		(pts
+			(xy 46.99 55.88) (xy 46.99 39.37)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "4b672cb5-c900-40bd-9076-c146ea213c65")
+	)
+	(wire
+		(pts
+			(xy 36.83 44.45) (xy 57.15 44.45)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "4b6e1c11-401a-4a0f-8487-4ec2c55f6a40")
+	)
+	(wire
+		(pts
+			(xy 205.74 99.06) (xy 203.2 99.06)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "4b8336b2-54a2-401a-ad67-e60deee9ef78")
+	)
+	(wire
+		(pts
+			(xy 57.15 83.82) (xy 57.15 88.9)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "4c7d792f-bd91-4103-93db-9a6d4480dd95")
+	)
+	(wire
+		(pts
+			(xy 113.03 135.89) (xy 124.46 135.89)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "4c8aece2-b368-491c-80ad-45953f8189ac")
+	)
+	(wire
+		(pts
+			(xy 113.03 58.42) (xy 113.03 78.74)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "4db3d263-3aa2-419d-ae99-88b452112d26")
+	)
+	(wire
+		(pts
+			(xy 92.71 114.3) (xy 96.52 114.3)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "4e44ec49-dec7-4e97-819c-7e4ab4d9b8b4")
+	)
+	(wire
+		(pts
+			(xy 113.03 78.74) (xy 124.46 78.74)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "4e688314-e5d9-4693-bea5-819ab31c9f02")
+	)
+	(wire
+		(pts
+			(xy 46.99 95.25) (xy 46.99 114.3)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "4f2e3752-3ab5-4f08-ba03-82161fa0dbc5")
+	)
+	(wire
+		(pts
+			(xy 102.87 125.73) (xy 102.87 127)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "4f39096c-0b7c-425a-a677-822a7ae846b0")
+	)
+	(wire
+		(pts
+			(xy 77.47 125.73) (xy 102.87 125.73)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "509c0d45-600a-4b6f-8051-5c31ebbba72c")
+	)
+	(wire
+		(pts
+			(xy 63.5 116.84) (xy 71.12 116.84)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "52833989-a9e1-439c-8f8b-2e0d0646a240")
+	)
+	(wire
+		(pts
+			(xy 133.35 102.87) (xy 161.29 102.87)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "52bed1f0-4b6e-4d6f-a022-1421ad810331")
+	)
+	(wire
+		(pts
+			(xy 113.03 97.79) (xy 124.46 97.79)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "5391ccb2-f7e1-4849-902e-52f5621bdbe8")
+	)
+	(wire
+		(pts
+			(xy 80.01 44.45) (xy 105.41 44.45)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "53d6291b-b1b4-40c4-8b27-ad643d767115")
+	)
+	(wire
+		(pts
+			(xy 77.47 106.68) (xy 102.87 106.68)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "5611f3a3-3a72-49c8-82d9-ded37446c63d")
+	)
+	(wire
+		(pts
+			(xy 105.41 121.92) (xy 133.35 121.92)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "56c63a6d-477e-4de0-aec0-4fbecc2d8e75")
+	)
+	(wire
+		(pts
+			(xy 148.59 55.88) (xy 148.59 76.2)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "573ed246-4f66-4352-8dcd-777a64c3f44c")
+	)
+	(wire
+		(pts
+			(xy 102.87 87.63) (xy 130.81 87.63)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "58312369-ba6e-4146-9787-a2be6e6377c3")
+	)
+	(wire
+		(pts
+			(xy 63.5 116.84) (xy 63.5 135.89)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "58f198bc-6c65-4731-bd50-51a625e5782b")
+	)
+	(wire
+		(pts
+			(xy 96.52 116.84) (xy 86.36 116.84)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "5993b483-4d62-4187-89c5-315951db8793")
+	)
+	(wire
+		(pts
+			(xy 130.81 48.26) (xy 130.81 49.53)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "60904a61-c711-4701-8cc6-dc9c0989039c")
+	)
+	(wire
+		(pts
+			(xy 57.15 121.92) (xy 57.15 127)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "620d612f-2a67-4676-ba08-dd6d08e384fe")
+	)
+	(wire
+		(pts
+			(xy 54.61 87.63) (xy 77.47 87.63)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "653567be-a079-4c87-9cb0-e90eea2c606a")
+	)
+	(wire
+		(pts
+			(xy 105.41 83.82) (xy 105.41 88.9)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "6571dcd4-13ff-48e0-8b77-36811dd274cc")
+	)
+	(wire
+		(pts
+			(xy 63.5 97.79) (xy 71.12 97.79)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "66ee6898-8e9d-46f9-a90c-7ab3ebee4423")
+	)
+	(wire
+		(pts
+			(xy 205.74 104.14) (xy 203.2 104.14)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "67542749-a19c-4da5-86a5-45dabcc9dc5d")
+	)
+	(wire
+		(pts
+			(xy 54.61 106.68) (xy 54.61 107.95)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "67eb19c7-fa48-48e8-9641-49d324816911")
+	)
+	(wire
+		(pts
+			(xy 36.83 121.92) (xy 57.15 121.92)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "69df6a3b-7e8d-4494-bfcb-27b089cc530f")
+	)
+	(wire
+		(pts
+			(xy 69.85 114.3) (xy 71.12 114.3)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "6dc2a264-1148-494e-9323-ea12d3ae9db7")
+	)
+	(wire
+		(pts
+			(xy 130.81 125.73) (xy 158.75 125.73)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "6eea312f-29b7-430e-9117-edd162ea50ac")
+	)
+	(wire
+		(pts
+			(xy 158.75 68.58) (xy 158.75 69.85)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "6f8bccf3-2457-423f-b8d0-06364a7d3ff0")
+	)
+	(wire
+		(pts
+			(xy 205.74 66.04) (xy 203.2 66.04)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "70c2638d-64a4-45e5-8b88-6828700d6510")
+	)
+	(wire
+		(pts
+			(xy 133.35 44.45) (xy 133.35 49.53)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "72c167de-f794-4fdc-8beb-a4dceba5d50e")
+	)
+	(wire
+		(pts
+			(xy 161.29 64.77) (xy 161.29 69.85)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "7339ae0a-f7cb-46fd-afd2-9c3801987fa3")
+	)
+	(wire
+		(pts
+			(xy 119.38 55.88) (xy 124.46 55.88)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "73ac8910-3b79-4709-8018-b3e00b79d6a2")
+	)
+	(wire
+		(pts
+			(xy 39.37 78.74) (xy 39.37 58.42)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "77bf09ae-7d51-4d1b-9504-4d02011795a8")
+	)
+	(wire
+		(pts
+			(xy 80.01 102.87) (xy 80.01 107.95)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "7807958e-1cf2-498e-b26a-61d21edca1a4")
+	)
+	(wire
+		(pts
+			(xy 36.83 87.63) (xy 54.61 87.63)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "784af3b6-7d11-4aaf-a89e-780f346c4b8c")
+	)
+	(wire
+		(pts
+			(xy 142.24 97.79) (xy 142.24 116.84)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "79a6660d-f82e-4d64-8682-81083ca3312f")
+	)
+	(wire
+		(pts
+			(xy 63.5 78.74) (xy 63.5 97.79)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "79b59640-3e45-45fa-aac5-9479a92ed345")
+	)
+	(wire
+		(pts
+			(xy 86.36 135.89) (xy 96.52 135.89)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "7aa11d80-01d6-4592-9b94-c5c9f4e8dbdf")
+	)
+	(wire
+		(pts
+			(xy 80.01 83.82) (xy 105.41 83.82)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "7b474c56-a240-498d-823b-b6258dc1e9cc")
+	)
+	(wire
+		(pts
+			(xy 77.47 87.63) (xy 102.87 87.63)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "7b531f0d-d41b-49af-8dfa-b34f716ce4e9")
+	)
+	(wire
+		(pts
+			(xy 119.38 114.3) (xy 119.38 133.35)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "7beb19d5-a391-4c41-a490-ae088abf56fc")
+	)
+	(wire
+		(pts
+			(xy 133.35 44.45) (xy 161.29 44.45)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "7ca46823-99d5-410d-aa50-cefe93f74598")
+	)
+	(wire
+		(pts
+			(xy 77.47 87.63) (xy 77.47 88.9)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "7d5357e4-4f86-4826-9bde-f54f7a94cb19")
+	)
+	(wire
+		(pts
+			(xy 102.87 125.73) (xy 130.81 125.73)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "7e2e7e57-3ac7-4834-afa7-24a71e0839b0")
+	)
+	(wire
+		(pts
+			(xy 105.41 44.45) (xy 133.35 44.45)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "7e76a815-13f7-4ff4-84dd-cf8a639389cc")
+	)
+	(wire
+		(pts
+			(xy 133.35 102.87) (xy 133.35 107.95)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "7f03f65c-3754-48a5-8032-dedeecabb858")
+	)
+	(wire
+		(pts
+			(xy 130.81 106.68) (xy 130.81 107.95)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "82d96113-9eb4-4886-8d51-65fc4d08bd2b")
+	)
+	(wire
+		(pts
+			(xy 130.81 48.26) (xy 158.75 48.26)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "831369c8-bb5b-4f46-95c5-02ebcb1c83e5")
+	)
+	(wire
+		(pts
+			(xy 69.85 114.3) (xy 69.85 133.35)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "8487bf46-d5eb-493a-b183-cffea9794769")
+	)
+	(wire
+		(pts
+			(xy 63.5 58.42) (xy 71.12 58.42)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "86a3a1ac-6e00-41d5-a212-f252e7de8a1b")
+	)
+	(wire
+		(pts
+			(xy 48.26 116.84) (xy 39.37 116.84)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "8a1bac89-ce0d-4cfb-bd69-d73b5eea8d96")
+	)
+	(wire
+		(pts
+			(xy 48.26 135.89) (xy 39.37 135.89)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "8adb4f96-b4b5-4d8d-99d5-e8227ed97004")
+	)
+	(wire
+		(pts
+			(xy 39.37 58.42) (xy 39.37 39.37)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "8bfe09f0-9356-4e57-a0ea-6b6587fcc56d")
+	)
+	(wire
+		(pts
+			(xy 36.83 106.68) (xy 54.61 106.68)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "8c442c1e-0665-4324-9e8e-86dfbb3c2f09")
+	)
+	(wire
+		(pts
+			(xy 148.59 39.37) (xy 148.59 55.88)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "8e029ed7-9993-4996-bf78-205907610e95")
+	)
+	(wire
+		(pts
+			(xy 69.85 55.88) (xy 69.85 76.2)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "8f1b1b4b-190c-4e2d-86e7-b9f99c2b9960")
+	)
+	(wire
+		(pts
+			(xy 77.47 48.26) (xy 102.87 48.26)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "8f35758d-9534-4e13-b360-7bd3cdb77447")
+	)
+	(wire
+		(pts
+			(xy 63.5 78.74) (xy 71.12 78.74)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "8fedec8f-8268-4b8d-925e-14e596660233")
+	)
+	(wire
+		(pts
+			(xy 92.71 76.2) (xy 92.71 95.25)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "915cc80c-a6e9-4941-a6ec-e1e517a243bf")
+	)
+	(wire
+		(pts
+			(xy 92.71 133.35) (xy 96.52 133.35)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "932dc19c-ec8d-4b45-aa0f-a79d528a95ae")
+	)
+	(wire
+		(pts
+			(xy 86.36 97.79) (xy 96.52 97.79)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "93b254a7-ef0b-40fe-bbfa-2347c579eb96")
+	)
+	(wire
+		(pts
+			(xy 102.87 48.26) (xy 130.81 48.26)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "93cd196f-ed7c-4071-861d-c98f4f782d2b")
+	)
+	(wire
+		(pts
+			(xy 69.85 55.88) (xy 71.12 55.88)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "94b6f4a8-5902-4396-ac5a-971625e1c272")
+	)
+	(wire
+		(pts
+			(xy 63.5 58.42) (xy 63.5 78.74)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "9798a89f-f0de-4367-952c-8f76bd8e50d3")
+	)
+	(wire
+		(pts
+			(xy 205.74 73.66) (xy 203.2 73.66)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "986fd16d-272f-4432-884a-31c1705416d0")
+	)
+	(wire
+		(pts
+			(xy 205.74 86.36) (xy 203.2 86.36)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "98e642b1-2404-4c22-8ecb-34f78417ee2e")
+	)
+	(wire
+		(pts
+			(xy 102.87 106.68) (xy 130.81 106.68)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "99535d95-0e24-48d8-8e99-280f3b64280a")
+	)
+	(wire
+		(pts
+			(xy 39.37 97.79) (xy 39.37 78.74)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "9a6d7609-3ab0-4849-81b0-17e4cd8e67cb")
+	)
+	(wire
+		(pts
+			(xy 130.81 87.63) (xy 130.81 88.9)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "9b17dd84-c6f4-47b6-95ba-3943265e2f8e")
+	)
+	(wire
+		(pts
+			(xy 105.41 102.87) (xy 105.41 107.95)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "9c5e95e0-380d-4876-947a-542d3e37bf7a")
+	)
+	(wire
+		(pts
+			(xy 57.15 83.82) (xy 80.01 83.82)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "9f62bc09-c741-437c-ab54-8192826f0cdb")
+	)
+	(wire
+		(pts
+			(xy 36.83 68.58) (xy 54.61 68.58)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "9ff95abf-48a5-4345-be72-06c586281ef4")
+	)
+	(wire
+		(pts
+			(xy 205.74 76.2) (xy 203.2 76.2)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "a14d4028-b15f-4918-96d9-caaea21d9994")
+	)
+	(wire
+		(pts
+			(xy 71.12 133.35) (xy 69.85 133.35)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "a1dffd2d-afa5-485f-89e4-77f6de1584a3")
+	)
+	(wire
+		(pts
+			(xy 102.87 87.63) (xy 102.87 88.9)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "a46d67a3-55ec-4180-a038-3cbf704eb169")
+	)
+	(wire
+		(pts
+			(xy 205.74 91.44) (xy 203.2 91.44)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "a6442f01-15a8-4ba8-99d2-1f05f5250693")
+	)
+	(wire
+		(pts
+			(xy 148.59 95.25) (xy 152.4 95.25)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "a8861507-502a-4b34-9353-a03fb6eff370")
+	)
+	(wire
+		(pts
+			(xy 92.71 39.37) (xy 92.71 55.88)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "ab2eaa01-b669-4dff-88a8-a21c5959a7aa")
+	)
+	(wire
+		(pts
+			(xy 130.81 68.58) (xy 130.81 69.85)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "ab8e2185-ce2c-4856-a414-1f8083ea4201")
+	)
+	(wire
+		(pts
+			(xy 48.26 114.3) (xy 46.99 114.3)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "addbaf3e-bc14-4715-a90e-717f5a8e2bf3")
+	)
+	(wire
+		(pts
+			(xy 54.61 48.26) (xy 77.47 48.26)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "affea11b-77bc-4b32-9e1d-cc04c4b4a680")
+	)
+	(wire
+		(pts
+			(xy 105.41 102.87) (xy 133.35 102.87)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "b070e00a-5324-4933-a39b-c9c75bd885d2")
+	)
+	(wire
+		(pts
+			(xy 63.5 97.79) (xy 63.5 116.84)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "b077a3d3-b659-43b5-aeb6-c5187139a886")
+	)
+	(wire
+		(pts
+			(xy 161.29 83.82) (xy 161.29 88.9)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "b1ad4225-d14d-4d3b-be96-fb46bed8c28c")
+	)
+	(wire
+		(pts
+			(xy 92.71 55.88) (xy 96.52 55.88)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "b2ef187d-185e-4bfb-8a29-1a00218bd83d")
+	)
+	(wire
+		(pts
+			(xy 57.15 102.87) (xy 57.15 107.95)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "b32bf26a-fc6e-45bd-be3e-b0b7830bb62d")
+	)
+	(wire
+		(pts
+			(xy 80.01 44.45) (xy 57.15 44.45)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "b396cd6d-07c3-489f-a53c-28773632723f")
+	)
+	(wire
+		(pts
+			(xy 142.24 116.84) (xy 152.4 116.84)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "b46ed393-714c-42e8-965b-b19d5e7bd0ba")
+	)
+	(wire
+		(pts
+			(xy 63.5 39.37) (xy 63.5 58.42)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "b4e4822f-e84c-4a7a-bcdf-0934dc84ccaf")
+	)
+	(wire
+		(pts
+			(xy 130.81 87.63) (xy 158.75 87.63)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "b53277e2-0ef8-438d-9d36-2426dd0eb555")
+	)
+	(wire
+		(pts
+			(xy 119.38 95.25) (xy 119.38 114.3)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "b6bc8add-9533-4a46-9850-edbf37c0c805")
+	)
+	(wire
+		(pts
+			(xy 105.41 64.77) (xy 133.35 64.77)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "b6ed0709-8c6b-4228-aa1c-0f0e0b51bd78")
+	)
+	(wire
+		(pts
+			(xy 54.61 68.58) (xy 54.61 69.85)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "b8fc7975-5b20-42fd-b7d8-a536633042e1")
+	)
+	(wire
+		(pts
+			(xy 205.74 101.6) (xy 203.2 101.6)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "b9fcdd5e-d61a-4cfb-9c90-2986a919230c")
+	)
+	(wire
+		(pts
+			(xy 205.74 63.5) (xy 203.2 63.5)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "bb429582-8c62-4f96-98ce-c4e4d19a1bd0")
+	)
+	(wire
+		(pts
+			(xy 36.83 83.82) (xy 57.15 83.82)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "bc0c25ad-bd11-4b9b-97cf-5e70383306e8")
+	)
+	(wire
+		(pts
+			(xy 57.15 121.92) (xy 80.01 121.92)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "bc0f7d53-3663-4a9f-a08c-231a3ff8a18f")
+	)
+	(wire
+		(pts
+			(xy 205.74 88.9) (xy 203.2 88.9)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "bc5b896c-de99-4b2e-9bd6-54519f968706")
+	)
+	(wire
+		(pts
+			(xy 80.01 49.53) (xy 80.01 44.45)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "be43f642-f622-46b6-b25c-5fa6b4e386ec")
+	)
+	(wire
+		(pts
+			(xy 69.85 95.25) (xy 69.85 114.3)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "c1993f8a-2c35-420b-ab68-382f3c772c2f")
+	)
+	(wire
+		(pts
+			(xy 54.61 48.26) (xy 54.61 49.53)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "c5f8396e-874f-417d-a8db-f0f964b44cad")
+	)
+	(wire
+		(pts
+			(xy 113.03 116.84) (xy 113.03 135.89)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "c6367e1e-0a00-4348-9f4e-57789b702f07")
+	)
+	(wire
+		(pts
+			(xy 48.26 58.42) (xy 39.37 58.42)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "c7affdd1-52c0-4138-aade-d63dd37bce01")
+	)
+	(wire
+		(pts
+			(xy 57.15 64.77) (xy 80.01 64.77)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "c896a86d-6f86-4d32-84a1-5914b54afe37")
+	)
+	(wire
+		(pts
+			(xy 48.26 95.25) (xy 46.99 95.25)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "c91fc6b8-c429-4adf-a7f6-f73d1b9782b8")
+	)
+	(wire
+		(pts
+			(xy 133.35 69.85) (xy 133.35 64.77)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "c96499ca-d67f-4d26-8bad-688b1e114dcc")
+	)
+	(wire
+		(pts
+			(xy 69.85 76.2) (xy 69.85 95.25)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "c97099dc-3b92-4d61-b5aa-64866d17ea5c")
+	)
+	(wire
+		(pts
+			(xy 119.38 114.3) (xy 124.46 114.3)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "cb3e384d-a905-4fdc-9b65-43e04f01da54")
+	)
+	(wire
+		(pts
+			(xy 48.26 78.74) (xy 39.37 78.74)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "ce3b945c-77a0-4c75-9f8c-af2c1cb850bc")
+	)
+	(wire
+		(pts
+			(xy 161.29 121.92) (xy 161.29 127)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "cfbc45df-4c49-4b7f-b3fa-a803d9f9214a")
+	)
+	(wire
+		(pts
+			(xy 133.35 83.82) (xy 133.35 88.9)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "d061951d-6bb7-48a7-926b-6af0c53f14dd")
+	)
+	(wire
+		(pts
+			(xy 113.03 78.74) (xy 113.03 97.79)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "d7c3363d-4080-4eff-83af-16f61683783f")
+	)
+	(wire
+		(pts
+			(xy 57.15 102.87) (xy 80.01 102.87)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "d7fdf429-0bb9-4b2e-8a21-51faf657aafc")
+	)
+	(wire
+		(pts
+			(xy 39.37 135.89) (xy 39.37 116.84)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "d863dd9c-39b5-4fac-b1e0-b96d50eb2900")
+	)
+	(wire
+		(pts
+			(xy 48.26 133.35) (xy 46.99 133.35)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "dc968456-7002-4892-9cd1-adf9fc6000e2")
+	)
+	(wire
+		(pts
+			(xy 133.35 121.92) (xy 161.29 121.92)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "ddd6becb-e1f7-468b-9b50-829363277d3c")
+	)
+	(wire
+		(pts
+			(xy 205.74 83.82) (xy 203.2 83.82)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "de44266f-ce0b-40fe-8191-044a1cfcd0e6")
+	)
+	(wire
+		(pts
+			(xy 77.47 49.53) (xy 77.47 48.26)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "ded7c7ee-73d3-4c15-846c-a52ec8c17034")
+	)
+	(wire
+		(pts
+			(xy 142.24 116.84) (xy 142.24 135.89)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "e009e613-0a9d-4bd9-8d2d-daac99060101")
+	)
+	(wire
+		(pts
+			(xy 119.38 76.2) (xy 119.38 95.25)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "e0348a76-2d32-4903-aec1-6d5a832380fa")
+	)
+	(wire
+		(pts
+			(xy 69.85 95.25) (xy 71.12 95.25)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "e33412d9-8fbc-43da-887a-ac6fe446fa8b")
+	)
+	(wire
+		(pts
+			(xy 119.38 55.88) (xy 119.38 76.2)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "e6dd4ecb-fffe-49f9-8970-c8138757c889")
+	)
+	(wire
+		(pts
+			(xy 158.75 125.73) (xy 158.75 127)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "e6f0f778-c2aa-440e-b431-7ecbaa440c92")
+	)
+	(wire
+		(pts
+			(xy 54.61 68.58) (xy 77.47 68.58)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "e8722cbc-1c50-491a-a8df-d25fc22dc8d3")
+	)
+	(wire
+		(pts
+			(xy 205.74 93.98) (xy 203.2 93.98)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "e8fb5d8e-88c8-4e6f-854c-2ccb0e916983")
+	)
+	(wire
+		(pts
+			(xy 205.74 109.22) (xy 203.2 109.22)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "eafa9132-b999-44ce-8a95-d8e06c3f8da4")
+	)
+	(wire
+		(pts
+			(xy 113.03 58.42) (xy 124.46 58.42)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "ef81a7e4-b451-45e6-83df-673d6882f7e1")
+	)
+	(wire
+		(pts
+			(xy 130.81 68.58) (xy 158.75 68.58)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "f1611a4b-5bdb-4386-9805-e7c839ed4f77")
+	)
+	(wire
+		(pts
+			(xy 77.47 106.68) (xy 77.47 107.95)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "f383a7e8-9a5c-447b-be7a-72be9de52731")
+	)
+	(wire
+		(pts
+			(xy 102.87 68.58) (xy 102.87 69.85)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "f3842980-6482-4a88-a601-6debab7bc636")
+	)
+	(wire
+		(pts
+			(xy 119.38 95.25) (xy 124.46 95.25)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "f4d123fa-a77f-46fa-8891-4213ea267a83")
+	)
+	(wire
+		(pts
+			(xy 63.5 135.89) (xy 71.12 135.89)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "f50a1c60-9c7d-4e24-842a-ced4800727d4")
+	)
+	(wire
+		(pts
+			(xy 86.36 39.37) (xy 86.36 58.42)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "f549d4c0-de42-4792-bff5-f7f7d85888fa")
+	)
+	(wire
+		(pts
+			(xy 105.41 44.45) (xy 105.41 49.53)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "f72f18b8-1867-4d9d-bd29-80e9bb47a71c")
+	)
+	(wire
+		(pts
+			(xy 80.01 102.87) (xy 105.41 102.87)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "f73bb1fd-2891-47b9-bf70-6559642a928c")
+	)
+	(wire
+		(pts
+			(xy 86.36 78.74) (xy 96.52 78.74)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "f9d1f3f7-dd3f-47b6-9a6e-d250122375e2")
+	)
+	(wire
+		(pts
+			(xy 205.74 78.74) (xy 203.2 78.74)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "f9e5d8bc-26e4-432b-aa50-a9806b024cd4")
+	)
+	(wire
+		(pts
+			(xy 54.61 125.73) (xy 77.47 125.73)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "fa9e7dc6-d011-4828-876b-fe621b5c0008")
+	)
+	(wire
+		(pts
+			(xy 142.24 78.74) (xy 152.4 78.74)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "fd0f959b-ad24-4c2a-9a58-1cdefc130dfe")
+	)
+	(wire
+		(pts
+			(xy 148.59 76.2) (xy 148.59 95.25)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "fd1b9943-f023-4f79-b198-a51b56e08120")
+	)
+	(wire
+		(pts
+			(xy 105.41 121.92) (xy 105.41 127)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "fe4807c9-822a-4b57-afbc-bd53588948fe")
+	)
+	(wire
+		(pts
+			(xy 46.99 114.3) (xy 46.99 133.35)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "fe738816-f49f-4423-af6a-ee62c4140a45")
+	)
+	(wire
+		(pts
+			(xy 158.75 87.63) (xy 158.75 88.9)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "ff711a0d-ec5a-4d77-b799-1e8d52837cd6")
+	)
+	(wire
+		(pts
+			(xy 80.01 64.77) (xy 80.01 69.85)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "ffd0fc9f-2f68-4403-8b5d-b83a4f7182ca")
+	)
+	(label "XN_R4"
+		(at 205.74 101.6 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "06f9a8c0-96ea-44eb-ab4b-1e1197ad153a")
+	)
+	(label "YP_C4"
+		(at 36.83 106.68 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "0748b9a5-26c9-42ac-8557-520ee41d10a8")
+	)
+	(label "XP_R4"
+		(at 205.74 99.06 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "112483a5-688c-4b1f-a67a-1bcd6c247cc3")
+	)
+	(label "XN_R3"
+		(at 205.74 106.68 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "122c49e2-83e6-4201-9dd6-8461039abbfc")
+	)
+	(label "YN_C3"
+		(at 36.83 83.82 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "22694859-4302-4bd0-9acf-918aaf9ed535")
+	)
+	(label "XP_R4"
+		(at 113.03 39.37 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "2d1e39e9-af8d-4c8b-97d7-c1d1edc9d0b1")
+	)
+	(label "XN_R5"
+		(at 148.59 39.37 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "2dfc3011-f49b-40cb-9e3c-d1a75b0dd45f")
+	)
+	(label "XP_R1"
+		(at 205.74 63.5 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "2fe98267-aa0c-4951-b830-a1546f03622c")
+	)
+	(label "XP_R5"
+		(at 205.74 76.2 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "3305c75e-35a1-4b72-b058-bf2cf0c13ca2")
+	)
+	(label "XN_R2"
+		(at 205.74 68.58 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "3a24eb88-cc21-460a-ae8d-b6d5e2bc90b7")
+	)
+	(label "YN_C5"
+		(at 36.83 121.92 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "3f91ec9a-ea9f-4c94-96ea-c7ad1b409599")
+	)
+	(label "YN_C2"
+		(at 36.83 64.77 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "43ff6f5e-e0a2-4245-8305-f236b8193a15")
+	)
+	(label "XP_R3"
+		(at 86.36 39.37 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "5835a58d-540a-4654-b460-e99bb7f4dcfd")
+	)
+	(label "XP_R2"
+		(at 63.5 39.37 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "67606652-8afa-47da-bc96-62f5f9d9dc7a")
+	)
+	(label "YN_C3"
+		(at 205.74 86.36 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "69fd470b-9e5b-456e-9e70-81b2d2ccb4e0")
+	)
+	(label "YN_C2"
+		(at 205.74 81.28 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "6b100d87-630a-4b46-a0cc-34a4cb879a0a")
+	)
+	(label "XN_R3"
+		(at 92.71 39.37 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "6d92332f-1cfa-4234-98a6-124a70d039ee")
+	)
+	(label "XP_R3"
+		(at 205.74 104.14 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "772b59a6-64de-48cf-a435-52078b7b5258")
+	)
+	(label "YP_C2"
+		(at 36.83 68.58 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "85cb85ca-9023-4653-aa06-487f8fbd52f8")
+	)
+	(label "YP_C5"
+		(at 205.74 93.98 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "89888724-61bf-4dbb-a229-2bf3065c92c0")
+	)
+	(label "YN_C4"
+		(at 205.74 91.44 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "9153bde6-8467-4e40-8b24-cf5d675ba028")
+	)
+	(label "XP_R5"
+		(at 142.24 39.37 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "a5b2f5be-a6f0-4643-95e2-bba99ee0b8f7")
+	)
+	(label "YP_C1"
+		(at 36.83 48.26 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "a7288a67-2c0f-4338-9f20-6588984885f6")
+	)
+	(label "XN_R4"
+		(at 119.38 39.37 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "a88da9e8-a1c9-4bb6-a933-bb798c7d0542")
+	)
+	(label "YP_C3"
+		(at 36.83 87.63 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "b02f71a4-7d3a-46b4-8cd0-87f4afd32ad7")
+	)
+	(label "XN_R1"
+		(at 46.99 39.37 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "b37d572f-702b-4670-9c30-9e176ae6a567")
+	)
+	(label "YP_C1"
+		(at 205.74 66.04 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "ba9c3abe-c792-4908-9663-3309034e6f75")
+	)
+	(label "YN_C1"
+		(at 205.74 73.66 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "bbd29dc1-b3a2-433f-92a8-f2b602d2cb2c")
+	)
+	(label "YP_C3"
+		(at 205.74 83.82 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "bdd8ffcc-0fe2-4219-8de8-b35337e1e154")
+	)
+	(label "YP_C5"
+		(at 36.83 125.73 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "db1ec15f-7942-4356-a3dc-6136e5cf9532")
+	)
+	(label "XP_R2"
+		(at 205.74 109.22 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "dc3b2644-0527-42d7-b164-dda22789677a")
+	)
+	(label "YN_C5"
+		(at 205.74 96.52 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "e2026e13-254e-47f6-b28a-050d72a2c3e5")
+	)
+	(label "YP_C2"
+		(at 205.74 78.74 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "e2f0edb8-c968-475a-9064-f6a6648ff288")
+	)
+	(label "XN_R1"
+		(at 205.74 60.96 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "e5b3d1a0-d865-440e-abc1-c06c4089dc3c")
+	)
+	(label "XN_R2"
+		(at 69.85 39.37 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "e5f96acd-e4b4-40ca-80bc-76f2c1da5fcf")
+	)
+	(label "XN_R5"
+		(at 205.74 71.12 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "e65c5a64-90a9-4fed-a662-184ce1a1401f")
+	)
+	(label "YN_C4"
+		(at 36.83 102.87 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "ea35a513-f509-4bc4-9e7d-b9d6a443edf4")
+	)
+	(label "YP_C4"
+		(at 205.74 88.9 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "f277c288-945a-456d-b786-e0df0fd94c37")
+	)
+	(label "XP_R1"
+		(at 39.37 39.37 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "f657d67d-7e5d-4750-b7a7-901012a93004")
+	)
+	(label "YN_C1"
+		(at 36.83 44.45 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "fb2be90d-2f38-421d-81b3-2709154e5e35")
+	)
+	(symbol
+		(lib_id "tactile_sensor:Taxel_Pyramid")
+		(at 55.88 96.52 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim yes)
+		(in_bom no)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "0e90df33-7f1f-4757-8221-32d42cdcfd11")
+		(property "Reference" "T3"
+			(at 55.88 103.378 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "Taxel_Pyramid"
+			(at 68.58 92.6398 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "tactile_sensor:Taxel_Faces"
+			(at 55.88 96.52 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 55.88 96.52 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" ""
+			(at 55.88 96.52 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "4"
+			(uuid "419ac0de-8991-4c6e-b323-65b3d34a908e")
+		)
+		(pin "1"
+			(uuid "63f96c00-6365-44af-b328-891a2829d342")
+		)
+		(pin "2"
+			(uuid "c448ec33-6375-457c-bdaf-16ca015664dc")
+		)
+		(pin "3"
+			(uuid "8cf511de-8b10-4100-91cf-7c6499a02aef")
+		)
+		(instances
+			(project "JLCPCB_Piezoresistive_Carbon_Tactile_Sensor"
+				(path "/120beb98-da1d-4151-b387-2a3ec3985030"
+					(reference "T3")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "tactile_sensor:Taxel_Pyramid")
+		(at 104.14 115.57 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim yes)
+		(in_bom no)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "17af4caf-12f6-4e46-a3fa-3e552590e3c1")
+		(property "Reference" "T14"
+			(at 104.14 122.428 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "Taxel_Pyramid"
+			(at 116.84 111.6898 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "tactile_sensor:Taxel_Faces"
+			(at 104.14 115.57 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 104.14 115.57 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" ""
+			(at 104.14 115.57 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "4"
+			(uuid "f8695085-4caa-4efa-9b7e-4ad0a82c5d80")
+		)
+		(pin "1"
+			(uuid "2c55341f-6471-40e1-b799-195fe6cc3ee3")
+		)
+		(pin "2"
+			(uuid "62424a35-6c66-4333-9de7-d7d1b0729198")
+		)
+		(pin "3"
+			(uuid "e6afa6b8-cf23-4525-b7c0-9ab093d3535c")
+		)
+		(instances
+			(project "JLCPCB_Piezoresistive_Carbon_Tactile_Sensor"
+				(path "/120beb98-da1d-4151-b387-2a3ec3985030"
+					(reference "T14")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "tactile_sensor:Taxel_Pyramid")
+		(at 78.74 77.47 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim yes)
+		(in_bom no)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "1817fab0-d444-40d3-ac3d-b849f3e26bcb")
+		(property "Reference" "T7"
+			(at 78.74 84.328 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "Taxel_Pyramid"
+			(at 91.44 73.5898 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "tactile_sensor:Taxel_Faces"
+			(at 78.74 77.47 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 78.74 77.47 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" ""
+			(at 78.74 77.47 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "4"
+			(uuid "fde57b7a-f922-48fb-afef-f8449b158f6e")
+		)
+		(pin "1"
+			(uuid "8371afc9-33e8-4da6-8de1-6f6f51924079")
+		)
+		(pin "2"
+			(uuid "04a027c9-ec96-4999-81f0-391e05b7f884")
+		)
+		(pin "3"
+			(uuid "b7f42979-60b1-4c59-afca-a8ce0e9b01c3")
+		)
+		(instances
+			(project "JLCPCB_Piezoresistive_Carbon_Tactile_Sensor"
+				(path "/120beb98-da1d-4151-b387-2a3ec3985030"
+					(reference "T7")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "tactile_sensor:Taxel_Pyramid")
+		(at 160.02 96.52 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim yes)
+		(in_bom no)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "19a0b995-7509-4a48-88c8-724fd4124ac7")
+		(property "Reference" "T23"
+			(at 160.02 103.378 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "Taxel_Pyramid"
+			(at 172.72 92.6398 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "tactile_sensor:Taxel_Faces"
+			(at 160.02 96.52 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 160.02 96.52 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" ""
+			(at 160.02 96.52 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "4"
+			(uuid "a50c7767-bc7d-40e8-abdb-f574242f7e1f")
+		)
+		(pin "1"
+			(uuid "7092178b-c5cc-4033-afb6-79ab042690fc")
+		)
+		(pin "2"
+			(uuid "8a224ede-1026-4da1-b83c-67a959422739")
+		)
+		(pin "3"
+			(uuid "283e0fe1-0467-44d3-8175-f2ac1d704d3a")
+		)
+		(instances
+			(project "JLCPCB_Piezoresistive_Carbon_Tactile_Sensor"
+				(path "/120beb98-da1d-4151-b387-2a3ec3985030"
+					(reference "T23")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "tactile_sensor:Taxel_Pyramid")
+		(at 160.02 57.15 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim yes)
+		(in_bom no)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "2349389d-a186-48a7-b104-55ba852f748c")
+		(property "Reference" "T21"
+			(at 160.02 64.008 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "Taxel_Pyramid"
+			(at 172.72 53.2698 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "tactile_sensor:Taxel_Faces"
+			(at 160.02 57.15 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 160.02 57.15 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" ""
+			(at 160.02 57.15 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "4"
+			(uuid "9d80430f-8d80-41db-90c0-a88be170a5a5")
+		)
+		(pin "1"
+			(uuid "49c48e0b-1c11-44e4-9c89-7b679ede110f")
+		)
+		(pin "2"
+			(uuid "1ccefc8b-62ef-4939-acd1-baed11c5250c")
+		)
+		(pin "3"
+			(uuid "63f1a1c1-2372-4847-87bd-ae7a07cf22fa")
+		)
+		(instances
+			(project "JLCPCB_Piezoresistive_Carbon_Tactile_Sensor"
+				(path "/120beb98-da1d-4151-b387-2a3ec3985030"
+					(reference "T21")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "tactile_sensor:Taxel_Pyramid")
+		(at 104.14 96.52 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim yes)
+		(in_bom no)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "26294049-d85b-4740-a3db-73565727ca21")
+		(property "Reference" "T13"
+			(at 104.14 103.378 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "Taxel_Pyramid"
+			(at 116.84 92.6398 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "tactile_sensor:Taxel_Faces"
+			(at 104.14 96.52 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 104.14 96.52 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" ""
+			(at 104.14 96.52 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "4"
+			(uuid "d57b3cb1-9cab-4f27-8c80-544cfb6b57da")
+		)
+		(pin "1"
+			(uuid "41e1cc98-0043-4f19-89b3-fcc8ad242acb")
+		)
+		(pin "2"
+			(uuid "d7a4a61e-e3bb-4c09-829d-3383f3bde3b3")
+		)
+		(pin "3"
+			(uuid "441d371c-57b3-42c7-acbc-f88d149a30fb")
+		)
+		(instances
+			(project "JLCPCB_Piezoresistive_Carbon_Tactile_Sensor"
+				(path "/120beb98-da1d-4151-b387-2a3ec3985030"
+					(reference "T13")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "tactile_sensor:Taxel_Pyramid")
+		(at 132.08 96.52 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim yes)
+		(in_bom no)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "2d6fd2b4-a27a-4577-8c37-56fb74ff9d9d")
+		(property "Reference" "T18"
+			(at 132.08 103.378 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "Taxel_Pyramid"
+			(at 144.78 92.6398 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "tactile_sensor:Taxel_Faces"
+			(at 132.08 96.52 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 132.08 96.52 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" ""
+			(at 132.08 96.52 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "4"
+			(uuid "6f0d2f22-3fe6-4744-878d-337511692efe")
+		)
+		(pin "1"
+			(uuid "88afb6ed-cda4-4e7b-91ff-83b086057728")
+		)
+		(pin "2"
+			(uuid "f13eb227-e9f5-40b4-8931-69b990467bad")
+		)
+		(pin "3"
+			(uuid "eec67daf-c366-4f51-98b1-daf054badbfe")
+		)
+		(instances
+			(project "JLCPCB_Piezoresistive_Carbon_Tactile_Sensor"
+				(path "/120beb98-da1d-4151-b387-2a3ec3985030"
+					(reference "T18")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "tactile_sensor:Taxel_Pyramid")
+		(at 104.14 134.62 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim yes)
+		(in_bom no)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "45083411-2424-4875-95cb-e1d4dd096737")
+		(property "Reference" "T15"
+			(at 104.14 141.478 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "Taxel_Pyramid"
+			(at 116.84 130.7398 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "tactile_sensor:Taxel_Faces"
+			(at 104.14 134.62 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 104.14 134.62 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" ""
+			(at 104.14 134.62 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "4"
+			(uuid "c6b1967e-1801-4272-9ad3-7772092a64d4")
+		)
+		(pin "1"
+			(uuid "76b10ec2-573f-4996-b7a4-da6a40a2a130")
+		)
+		(pin "2"
+			(uuid "95a0a89e-d5a2-4671-9df1-146c1ab35010")
+		)
+		(pin "3"
+			(uuid "87c72142-f13f-46cb-ac93-0503a1f1d693")
+		)
+		(instances
+			(project "JLCPCB_Piezoresistive_Carbon_Tactile_Sensor"
+				(path "/120beb98-da1d-4151-b387-2a3ec3985030"
+					(reference "T15")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "tactile_sensor:Taxel_Pyramid")
+		(at 55.88 115.57 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim yes)
+		(in_bom no)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "4594033c-902a-4812-94a8-0df16dcd418a")
+		(property "Reference" "T4"
+			(at 55.88 122.428 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "Taxel_Pyramid"
+			(at 68.58 111.6898 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "tactile_sensor:Taxel_Faces"
+			(at 55.88 115.57 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 55.88 115.57 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" ""
+			(at 55.88 115.57 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "4"
+			(uuid "ea831576-0bc0-417d-908e-eb252c5e674b")
+		)
+		(pin "1"
+			(uuid "eca2abb6-cfcf-46f7-9d95-e73277229144")
+		)
+		(pin "2"
+			(uuid "f6c9bf0e-3ec1-42da-a88a-1947d2642b21")
+		)
+		(pin "3"
+			(uuid "1f3738ce-a476-47a2-9e68-1809cdb952c8")
+		)
+		(instances
+			(project "JLCPCB_Piezoresistive_Carbon_Tactile_Sensor"
+				(path "/120beb98-da1d-4151-b387-2a3ec3985030"
+					(reference "T4")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "tactile_sensor:Taxel_Pyramid")
+		(at 55.88 77.47 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim yes)
+		(in_bom no)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "48348ede-6088-4589-ae0b-f2490641c68f")
+		(property "Reference" "T2"
+			(at 55.88 84.328 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "Taxel_Pyramid"
+			(at 68.58 73.5898 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "tactile_sensor:Taxel_Faces"
+			(at 55.88 77.47 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 55.88 77.47 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" ""
+			(at 55.88 77.47 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "4"
+			(uuid "2253a238-6fb1-4fa4-b983-46f8e8542f71")
+		)
+		(pin "1"
+			(uuid "d101dc03-a439-45d0-8827-f2a5d19572d5")
+		)
+		(pin "2"
+			(uuid "b7bbe442-b9a6-429d-9fe3-40e686da5dcc")
+		)
+		(pin "3"
+			(uuid "12936820-666e-4c29-b96f-93a1ce4059da")
+		)
+		(instances
+			(project "JLCPCB_Piezoresistive_Carbon_Tactile_Sensor"
+				(path "/120beb98-da1d-4151-b387-2a3ec3985030"
+					(reference "T2")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "tactile_sensor:Taxel_Pyramid")
+		(at 132.08 115.57 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim yes)
+		(in_bom no)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "4c981f2f-09c2-45cf-973e-728c85590915")
+		(property "Reference" "T19"
+			(at 132.08 122.428 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "Taxel_Pyramid"
+			(at 144.78 111.6898 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "tactile_sensor:Taxel_Faces"
+			(at 132.08 115.57 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 132.08 115.57 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" ""
+			(at 132.08 115.57 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "4"
+			(uuid "5ddf1842-2fe9-4621-a207-d245cefa7c7c")
+		)
+		(pin "1"
+			(uuid "963b9153-85b5-43c8-ab90-ff2e2adeff77")
+		)
+		(pin "2"
+			(uuid "c7e4341c-7248-4ffe-a0db-67162aa9f193")
+		)
+		(pin "3"
+			(uuid "ef21fdce-38e6-4f68-9f22-b2e8962c3a6a")
+		)
+		(instances
+			(project "JLCPCB_Piezoresistive_Carbon_Tactile_Sensor"
+				(path "/120beb98-da1d-4151-b387-2a3ec3985030"
+					(reference "T19")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "tactile_sensor:Taxel_Pyramid")
+		(at 160.02 115.57 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim yes)
+		(in_bom no)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "4cc84fad-975c-47c5-b72a-c0f900f04624")
+		(property "Reference" "T24"
+			(at 160.02 122.428 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "Taxel_Pyramid"
+			(at 172.72 111.6898 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "tactile_sensor:Taxel_Faces"
+			(at 160.02 115.57 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 160.02 115.57 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" ""
+			(at 160.02 115.57 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "4"
+			(uuid "973cac1a-175c-4cfb-b020-f3405373dc58")
+		)
+		(pin "1"
+			(uuid "5f8b3cac-e5e5-44df-adcd-c226728cc9d1")
+		)
+		(pin "2"
+			(uuid "6dcc0ace-c63c-48bb-9ceb-5925a79cdd0b")
+		)
+		(pin "3"
+			(uuid "ff013ca7-0467-484a-96d3-14d350d3b6cd")
+		)
+		(instances
+			(project "JLCPCB_Piezoresistive_Carbon_Tactile_Sensor"
+				(path "/120beb98-da1d-4151-b387-2a3ec3985030"
+					(reference "T24")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "tactile_sensor:Taxel_Pyramid")
+		(at 104.14 77.47 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim yes)
+		(in_bom no)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "4fea4311-4a96-4f0e-9028-28e0db1d9024")
+		(property "Reference" "T12"
+			(at 104.14 84.328 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "Taxel_Pyramid"
+			(at 116.84 73.5898 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "tactile_sensor:Taxel_Faces"
+			(at 104.14 77.47 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 104.14 77.47 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" ""
+			(at 104.14 77.47 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "4"
+			(uuid "21626c05-c39f-4a97-b49d-62b19cef04ae")
+		)
+		(pin "1"
+			(uuid "a26d4835-d349-44be-ab77-9eccfc9218e5")
+		)
+		(pin "2"
+			(uuid "e03a8513-1b5d-45cb-87e2-ac1fb667a450")
+		)
+		(pin "3"
+			(uuid "9ee42f09-62b4-480d-8973-41459b64485e")
+		)
+		(instances
+			(project "JLCPCB_Piezoresistive_Carbon_Tactile_Sensor"
+				(path "/120beb98-da1d-4151-b387-2a3ec3985030"
+					(reference "T12")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "tactile_sensor:Taxel_Pyramid")
+		(at 160.02 77.47 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim yes)
+		(in_bom no)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "52ed14ae-81b6-4673-9c0e-7329c421e493")
+		(property "Reference" "T22"
+			(at 160.02 84.328 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "Taxel_Pyramid"
+			(at 172.72 73.5898 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "tactile_sensor:Taxel_Faces"
+			(at 160.02 77.47 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 160.02 77.47 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" ""
+			(at 160.02 77.47 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "4"
+			(uuid "9ca1655a-f22a-4e1d-9a59-5e19e7662fe0")
+		)
+		(pin "1"
+			(uuid "d6ca7ea3-fe1c-487b-9236-94b986465d6c")
+		)
+		(pin "2"
+			(uuid "cbedda50-9118-415f-8793-6c0121128176")
+		)
+		(pin "3"
+			(uuid "05ef4091-43a4-4f22-b5cc-8608fb2e86fa")
+		)
+		(instances
+			(project "JLCPCB_Piezoresistive_Carbon_Tactile_Sensor"
+				(path "/120beb98-da1d-4151-b387-2a3ec3985030"
+					(reference "T22")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "tactile_sensor:Taxel_Pyramid")
+		(at 104.14 57.15 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim yes)
+		(in_bom no)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "69afd59f-4667-48ec-95ca-3d2ed3fed9f9")
+		(property "Reference" "T11"
+			(at 104.14 64.008 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "Taxel_Pyramid"
+			(at 116.84 53.2698 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "tactile_sensor:Taxel_Faces"
+			(at 104.14 57.15 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 104.14 57.15 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" ""
+			(at 104.14 57.15 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "4"
+			(uuid "070e58c1-d065-4851-a713-2efc967c1909")
+		)
+		(pin "1"
+			(uuid "81db3c9c-8c91-4a35-b535-ed1ef78bb7ac")
+		)
+		(pin "2"
+			(uuid "be25393b-586a-438f-a676-185b879ecf61")
+		)
+		(pin "3"
+			(uuid "b18e583a-1db0-4b93-8396-a3f13057ae2d")
+		)
+		(instances
+			(project "JLCPCB_Piezoresistive_Carbon_Tactile_Sensor"
+				(path "/120beb98-da1d-4151-b387-2a3ec3985030"
+					(reference "T11")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "tactile_sensor:Taxel_Pyramid")
+		(at 78.74 134.62 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim yes)
+		(in_bom no)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "924ee3cd-c1dc-4b44-82f2-33be1b19d91b")
+		(property "Reference" "T10"
+			(at 78.74 141.478 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "Taxel_Pyramid"
+			(at 91.44 130.7398 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "tactile_sensor:Taxel_Faces"
+			(at 78.74 134.62 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 78.74 134.62 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" ""
+			(at 78.74 134.62 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "4"
+			(uuid "e16a99ef-f5be-4828-8598-0eac3b91565a")
+		)
+		(pin "1"
+			(uuid "dd499989-186e-4f7b-9b59-e351ecca2f1d")
+		)
+		(pin "2"
+			(uuid "5fcf2f8a-8cd8-47c6-bcd5-9d6859d8f65e")
+		)
+		(pin "3"
+			(uuid "dd28f5c9-6cec-48c5-a758-86ad5ca57bf7")
+		)
+		(instances
+			(project "JLCPCB_Piezoresistive_Carbon_Tactile_Sensor"
+				(path "/120beb98-da1d-4151-b387-2a3ec3985030"
+					(reference "T10")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "tactile_sensor:Taxel_Pyramid")
+		(at 55.88 57.15 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim yes)
+		(in_bom no)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "93f1b6b0-6d74-41ed-ba2a-93f12a2deeaf")
+		(property "Reference" "T1"
+			(at 55.88 64.008 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "Taxel_Pyramid"
+			(at 68.58 53.2698 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "tactile_sensor:Taxel_Faces"
+			(at 55.88 57.15 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 55.88 57.15 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" ""
+			(at 55.88 57.15 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "4"
+			(uuid "047f0df0-33d6-468f-8f69-36b2afa2484c")
+		)
+		(pin "1"
+			(uuid "c1f9efbd-964e-45e8-9acd-88a72cdfe208")
+		)
+		(pin "2"
+			(uuid "030bfb1e-d64c-42ad-b1c0-f24f4a1d276f")
+		)
+		(pin "3"
+			(uuid "d9eb7a20-67ca-478f-8156-a2bed57c42c9")
+		)
+		(instances
+			(project "JLCPCB_Piezoresistive_Carbon_Tactile_Sensor"
+				(path "/120beb98-da1d-4151-b387-2a3ec3985030"
+					(reference "T1")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "tactile_sensor:Taxel_Pyramid")
+		(at 78.74 115.57 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim yes)
+		(in_bom no)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "9ab40256-9be6-4d1b-b25a-0ea454a76d48")
+		(property "Reference" "T9"
+			(at 78.74 122.428 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "Taxel_Pyramid"
+			(at 91.44 111.6898 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "tactile_sensor:Taxel_Faces"
+			(at 78.74 115.57 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 78.74 115.57 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" ""
+			(at 78.74 115.57 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "4"
+			(uuid "f578a007-2745-45db-8dad-7485276868b3")
+		)
+		(pin "1"
+			(uuid "17615d93-a929-47e1-9551-73c52ecc0657")
+		)
+		(pin "2"
+			(uuid "e987392f-1a5b-4ab1-ad8d-67bf89889b74")
+		)
+		(pin "3"
+			(uuid "11d58af1-ab91-43a2-af33-229d8ff5e4ea")
+		)
+		(instances
+			(project "JLCPCB_Piezoresistive_Carbon_Tactile_Sensor"
+				(path "/120beb98-da1d-4151-b387-2a3ec3985030"
+					(reference "T9")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "tactile_sensor:Taxel_Pyramid")
+		(at 132.08 77.47 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim yes)
+		(in_bom no)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "9b8d1b03-2a1d-457b-ba4d-7e2abdbb0732")
+		(property "Reference" "T17"
+			(at 132.08 84.328 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "Taxel_Pyramid"
+			(at 144.78 73.5898 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "tactile_sensor:Taxel_Faces"
+			(at 132.08 77.47 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 132.08 77.47 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" ""
+			(at 132.08 77.47 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "4"
+			(uuid "be34bc0d-516b-4b31-babe-2f7ecb1f5daa")
+		)
+		(pin "1"
+			(uuid "3e82e756-b17b-4365-8cb7-ad3c1372e7fb")
+		)
+		(pin "2"
+			(uuid "4483885f-cac1-489d-8ae6-5eafefb3c1b7")
+		)
+		(pin "3"
+			(uuid "5b018a64-33b3-487f-8dfb-05bab5bc6b1c")
+		)
+		(instances
+			(project "JLCPCB_Piezoresistive_Carbon_Tactile_Sensor"
+				(path "/120beb98-da1d-4151-b387-2a3ec3985030"
+					(reference "T17")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Connector:Conn_01x24_Pin")
+		(at 198.12 83.82 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "a029cb43-4982-488f-8a4e-c07f6e5488e4")
+		(property "Reference" "J2"
+			(at 198.755 50.8 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "Conn_01x24_Pin"
+			(at 201.295 53.34 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "tactile_sensor:FPC_Tail_24P_P1.0x10"
+			(at 198.12 83.82 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 198.12 83.82 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Generic connector, single row, 01x24, script generated"
+			(at 198.12 83.82 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "15"
+			(uuid "5a3693a8-7a04-4cb3-a019-c36cbd8f2cf3")
+		)
+		(pin "20"
+			(uuid "153b41b1-a413-421c-a55a-ffa38b0a62c1")
+		)
+		(pin "10"
+			(uuid "e7eacae8-f54f-47a5-830c-b662f04f449f")
+		)
+		(pin "18"
+			(uuid "fa791f3a-1959-4996-9f72-22e29118741c")
+		)
+		(pin "9"
+			(uuid "4a0bee83-b12f-44a9-b06d-8172d815a509")
+		)
+		(pin "12"
+			(uuid "b2ab708e-0d82-4067-b594-62553ac5da3a")
+		)
+		(pin "16"
+			(uuid "25083920-98f3-4906-afa0-e4f21beca833")
+		)
+		(pin "19"
+			(uuid "78d28471-5af6-4b25-91ee-312d951aa1c9")
+		)
+		(pin "22"
+			(uuid "628d6b01-9e3b-4988-9bf9-d4f2101c890c")
+		)
+		(pin "23"
+			(uuid "b1cd9b91-13d0-4227-93e2-f74d6cc5c88a")
+		)
+		(pin "3"
+			(uuid "18ed836b-8149-4f43-bd02-8382a2cb1823")
+		)
+		(pin "4"
+			(uuid "f00e18bc-2643-450d-bac2-d8bba2102fb1")
+		)
+		(pin "1"
+			(uuid "4188658c-9980-4af7-a70d-bbe4f2e9dc94")
+		)
+		(pin "7"
+			(uuid "1f3a33b0-1f8b-4c66-a597-fd0b6e8348df")
+		)
+		(pin "5"
+			(uuid "abf8b127-5c19-4d96-bf93-9975416e4cef")
+		)
+		(pin "2"
+			(uuid "50aab8ad-c4c9-4822-a4f3-75e464625f6f")
+		)
+		(pin "6"
+			(uuid "b46fe625-b26a-45b7-a3cf-9d8d5d38245a")
+		)
+		(pin "8"
+			(uuid "0b6d5972-10b6-4595-acaf-d081288928a2")
+		)
+		(pin "11"
+			(uuid "fb4d66c7-c937-495c-8333-c624552e4f3c")
+		)
+		(pin "13"
+			(uuid "10ec56ab-9617-4ee1-ab31-8901b2831b4d")
+		)
+		(pin "14"
+			(uuid "7d012a62-e827-4eb0-a33f-030d6f06ab9f")
+		)
+		(pin "17"
+			(uuid "069a8358-5772-4477-a382-48760ebfd2d2")
+		)
+		(pin "21"
+			(uuid "27549430-8097-49af-a30b-6b0cbb5a73b7")
+		)
+		(pin "24"
+			(uuid "5d886f00-564a-4fac-9888-4a84ae96efbf")
+		)
+		(instances
+			(project "JLCPCB_Piezoresistive_Carbon_Tactile_Sensor"
+				(path "/120beb98-da1d-4151-b387-2a3ec3985030"
+					(reference "J2")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "tactile_sensor:Taxel_Pyramid")
+		(at 160.02 134.62 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim yes)
+		(in_bom no)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "a0860ff8-069c-41f3-b61d-94d0f1f84ce4")
+		(property "Reference" "T25"
+			(at 160.02 141.478 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "Taxel_Pyramid"
+			(at 172.72 130.7398 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "tactile_sensor:Taxel_Faces"
+			(at 160.02 134.62 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 160.02 134.62 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" ""
+			(at 160.02 134.62 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "4"
+			(uuid "f1c91090-0e5f-449c-bfae-1c33431ac2f7")
+		)
+		(pin "1"
+			(uuid "44f71421-310a-481e-b37f-043c143b7994")
+		)
+		(pin "2"
+			(uuid "67c45397-d738-4239-8c37-86bc5015d6f2")
+		)
+		(pin "3"
+			(uuid "707bf0aa-d722-49d1-81e4-f5f20725ea42")
+		)
+		(instances
+			(project "JLCPCB_Piezoresistive_Carbon_Tactile_Sensor"
+				(path "/120beb98-da1d-4151-b387-2a3ec3985030"
+					(reference "T25")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "tactile_sensor:Taxel_Pyramid")
+		(at 132.08 134.62 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim yes)
+		(in_bom no)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "aef03d5b-1510-466d-ad51-44f070046ff6")
+		(property "Reference" "T20"
+			(at 132.08 141.478 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "Taxel_Pyramid"
+			(at 144.78 130.7398 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "tactile_sensor:Taxel_Faces"
+			(at 132.08 134.62 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 132.08 134.62 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" ""
+			(at 132.08 134.62 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "4"
+			(uuid "46c39c4c-4b1f-42de-b1c0-a4d88605d5aa")
+		)
+		(pin "1"
+			(uuid "581c6760-5c71-4e54-bf35-66bbfbe4a510")
+		)
+		(pin "2"
+			(uuid "6aff42c2-bb0d-46b5-8fde-720733382ea6")
+		)
+		(pin "3"
+			(uuid "e603bdfa-0ac0-40a6-b86f-c8ccc0888b04")
+		)
+		(instances
+			(project "JLCPCB_Piezoresistive_Carbon_Tactile_Sensor"
+				(path "/120beb98-da1d-4151-b387-2a3ec3985030"
+					(reference "T20")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "tactile_sensor:Taxel_Pyramid")
+		(at 78.74 57.15 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim yes)
+		(in_bom no)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "ddfc7640-32d9-49fb-829d-91d39cd15896")
+		(property "Reference" "T6"
+			(at 78.74 64.008 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "Taxel_Pyramid"
+			(at 91.44 53.2698 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "tactile_sensor:Taxel_Faces"
+			(at 78.74 57.15 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 78.74 57.15 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" ""
+			(at 78.74 57.15 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "4"
+			(uuid "cb8a7753-7d06-4703-8ae0-1e155daae086")
+		)
+		(pin "1"
+			(uuid "11a699f3-e1fd-4c36-9b1a-bfa3a52abec6")
+		)
+		(pin "2"
+			(uuid "d2d97c37-bf33-497d-ab40-cfb6769d38bb")
+		)
+		(pin "3"
+			(uuid "9722525b-ecac-4dbc-917a-f9b833b4976b")
+		)
+		(instances
+			(project "JLCPCB_Piezoresistive_Carbon_Tactile_Sensor"
+				(path "/120beb98-da1d-4151-b387-2a3ec3985030"
+					(reference "T6")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "tactile_sensor:Taxel_Pyramid")
+		(at 55.88 134.62 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim yes)
+		(in_bom no)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "e38966a7-70f5-4ade-b47f-69e77e4c196d")
+		(property "Reference" "T5"
+			(at 55.88 141.478 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "Taxel_Pyramid"
+			(at 68.58 130.7398 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "tactile_sensor:Taxel_Faces"
+			(at 55.88 134.62 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 55.88 134.62 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" ""
+			(at 55.88 134.62 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "4"
+			(uuid "3e3b487a-6b2f-433b-8825-07e6d30469db")
+		)
+		(pin "1"
+			(uuid "a663df8d-e199-4544-96cd-06dee1c17da6")
+		)
+		(pin "2"
+			(uuid "08540804-06d2-4382-8263-3d74ad16aea3")
+		)
+		(pin "3"
+			(uuid "40b71550-3cfe-4126-a601-fa3736590fce")
+		)
+		(instances
+			(project "JLCPCB_Piezoresistive_Carbon_Tactile_Sensor"
+				(path "/120beb98-da1d-4151-b387-2a3ec3985030"
+					(reference "T5")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "tactile_sensor:Taxel_Pyramid")
+		(at 78.74 96.52 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim yes)
+		(in_bom no)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "eaa0435b-75b4-4bab-a73b-61ab8621e5cd")
+		(property "Reference" "T8"
+			(at 78.74 103.378 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "Taxel_Pyramid"
+			(at 91.44 92.6398 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "tactile_sensor:Taxel_Faces"
+			(at 78.74 96.52 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 78.74 96.52 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" ""
+			(at 78.74 96.52 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "4"
+			(uuid "5cc10f8b-9583-455c-827d-be966a0bdb83")
+		)
+		(pin "1"
+			(uuid "eb4634b0-476a-4fba-a83c-fefee911d121")
+		)
+		(pin "2"
+			(uuid "ce1bbb9b-4584-4703-829e-9ef616a1d145")
+		)
+		(pin "3"
+			(uuid "76746004-e8ea-481c-9a30-7ed01c3617ee")
+		)
+		(instances
+			(project "JLCPCB_Piezoresistive_Carbon_Tactile_Sensor"
+				(path "/120beb98-da1d-4151-b387-2a3ec3985030"
+					(reference "T8")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "tactile_sensor:Taxel_Pyramid")
+		(at 132.08 57.15 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim yes)
+		(in_bom no)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "f5f12d73-5216-464a-a585-5438ba77b3c5")
+		(property "Reference" "T16"
+			(at 132.08 64.008 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "Taxel_Pyramid"
+			(at 144.78 53.2698 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "tactile_sensor:Taxel_Faces"
+			(at 132.08 57.15 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 132.08 57.15 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" ""
+			(at 132.08 57.15 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "4"
+			(uuid "cc77d840-2677-41cd-929d-1584d915689e")
+		)
+		(pin "1"
+			(uuid "ac1ae49f-be1e-4a27-995c-812821538cf3")
+		)
+		(pin "2"
+			(uuid "feb22e18-327d-453e-aabe-81cdf1334f4b")
+		)
+		(pin "3"
+			(uuid "5cc9cd5e-d3af-4a02-9c4d-e6930de28a5d")
+		)
+		(instances
+			(project "JLCPCB_Piezoresistive_Carbon_Tactile_Sensor"
+				(path "/120beb98-da1d-4151-b387-2a3ec3985030"
+					(reference "T16")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(sheet_instances
+		(path "/"
+			(page "1")
+		)
+	)
+	(embedded_fonts no)
+)
