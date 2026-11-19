@@ -3,11 +3,11 @@
 	(generator "pcbnew")
 	(generator_version "10.0")
 	(layer "F.Cu")
-	(property "Reference" "FFC_12P_0.5MM"
+	(property "Reference" "J1"
 		(at 0 4.87 0)
 		(unlocked yes)
 		(layer "F.SilkS")
-		(uuid "a7b7fc13-5cb9-4db3-8d6f-efedfbad9be2")
+		(uuid "aea8bb33-f931-4c09-aecc-65dfbaa78327")
 		(effects
 			(font
 				(size 1 1)
@@ -15,11 +15,12 @@
 			)
 		)
 	)
-	(property "Value" "FFC_12P_0.5MM"
+	(property "Value" "Conn_01x12_Pin"
 		(at 0 6.37 0)
 		(unlocked yes)
 		(layer "F.Fab")
-		(uuid "0c935792-947e-40e8-9987-2f96b3f091bb")
+		(hide yes)
+		(uuid "9fb04a88-3183-42d0-b85a-15e04b2b433a")
 		(effects
 			(font
 				(size 1 1)
@@ -32,7 +33,7 @@
 		(unlocked yes)
 		(layer "F.Fab")
 		(hide yes)
-		(uuid "048adbfe-63d5-4a10-ba2d-b2a0a11fdf6a")
+		(uuid "679d9096-b018-4f9c-a81a-be3356172455")
 		(effects
 			(font
 				(size 1 1)
@@ -40,12 +41,12 @@
 			)
 		)
 	)
-	(property "Description" ""
+	(property "Description" "Generic connector, single row, 01x12, script generated"
 		(at 0 0 0)
 		(unlocked yes)
 		(layer "F.Fab")
 		(hide yes)
-		(uuid "47ed6870-5dd3-4e4a-ab85-282e7f390a21")
+		(uuid "76cd622c-48e3-4d1d-a58c-3b0ac4deed4b")
 		(effects
 			(font
 				(size 1 1)
@@ -53,102 +54,93 @@
 			)
 		)
 	)
+	(property ki_fp_filters "Connector*:*_1x??_*")
+	(sheetname "/")
+	(sheetfile "JLCPCB_Piezoresistive_Carbon_Tactile_Sensor_3P_1x1_IN.kicad_sch")
 	(attr smd)
 	(duplicate_pad_numbers_are_jumpers no)
 	(fp_rect
-		(start -3.54 -0.5)
-		(end 3.26 4)
+		(start -3.54 -0.25)
+		(end 3.26 4.25)
 		(stroke
 			(width 0.1)
 			(type default)
 		)
 		(fill no)
 		(layer "F.SilkS")
-		(uuid "39749f94-4887-4b98-874c-aec1bd9d8b5b")
-	)
-	(fp_text user "${REFERENCE}"
-		(at 0 7.87 0)
-		(unlocked yes)
-		(layer "F.Fab")
-		(uuid "4b5bda94-97b8-4e95-a7ae-f86a2c9776c3")
-		(effects
-			(font
-				(size 1 1)
-				(thickness 0.15)
-			)
-		)
+		(uuid "ed77074f-9097-4e85-bc02-3b948a820fb1")
 	)
 	(pad "1" smd rect
 		(at -2.89 2)
 		(size 0.3 4)
 		(layers "F.Cu" "F.Mask")
-		(uuid "20fa642d-6442-4ab9-92c4-baa92a144193")
+		(uuid "03693e65-654e-498a-b6a8-a42d65de8e70")
 	)
 	(pad "2" smd rect
 		(at -2.39 2)
 		(size 0.3 4)
 		(layers "F.Cu" "F.Mask")
-		(uuid "2850fc04-1398-44f0-90e0-332b4ce438dc")
+		(uuid "54644209-ad2a-446a-8e0b-539b986e7222")
 	)
 	(pad "3" smd rect
 		(at -1.89 2)
 		(size 0.3 4)
 		(layers "F.Cu" "F.Mask")
-		(uuid "33946b23-cf84-4730-bf36-995ce18b8406")
+		(uuid "529744cc-755a-4108-96a9-0c3dc0801338")
 	)
 	(pad "4" smd rect
 		(at -1.39 2)
 		(size 0.3 4)
 		(layers "F.Cu" "F.Mask")
-		(uuid "2c73d12c-f43d-40f4-9671-4bea959af790")
+		(uuid "71078a9b-936e-487b-b73c-bb40d3d0f26a")
 	)
 	(pad "5" smd rect
 		(at -0.89 2)
 		(size 0.3 4)
 		(layers "F.Cu" "F.Mask")
-		(uuid "198f210d-f0b1-47cf-a386-8bb90d7ead9e")
+		(uuid "f0f230ba-dc5c-4f54-9bae-f920a90d733b")
 	)
 	(pad "6" smd rect
 		(at -0.39 2)
 		(size 0.3 4)
 		(layers "F.Cu" "F.Mask")
-		(uuid "e6b5342c-e3e5-4ebd-921b-8ca9b97a31f3")
+		(uuid "e34669b5-d883-4dcb-b53d-be6f94fdd600")
 	)
 	(pad "7" smd rect
 		(at 0.11 2)
 		(size 0.3 4)
 		(layers "F.Cu" "F.Mask")
-		(uuid "3008a144-be66-4a78-b618-11b6db7de3ae")
+		(uuid "18b7ed17-8e17-41ba-aaed-ac06d8120f0c")
 	)
 	(pad "8" smd rect
 		(at 0.61 2)
 		(size 0.3 4)
 		(layers "F.Cu" "F.Mask")
-		(uuid "5ef4f010-b0a2-4584-8a3a-4cfc262d9e4b")
+		(uuid "2a10d266-2f75-44da-b6b3-48c2cdd86e82")
 	)
 	(pad "9" smd rect
 		(at 1.11 2)
 		(size 0.3 4)
 		(layers "F.Cu" "F.Mask")
-		(uuid "29f71ad2-3cd1-41a1-aab8-f37446c5595f")
+		(uuid "69f46fe9-6f3c-4c02-9eca-f97d2a154ca8")
 	)
 	(pad "10" smd rect
 		(at 1.61 2)
 		(size 0.3 4)
 		(layers "F.Cu" "F.Mask")
-		(uuid "6778091e-3724-45ac-ae49-9e1f99d26773")
+		(uuid "06ae5b26-ab1d-47f1-a0c9-00c6f2df7560")
 	)
 	(pad "11" smd rect
 		(at 2.11 2)
 		(size 0.3 4)
 		(layers "F.Cu" "F.Mask")
-		(uuid "d3de8422-37af-460d-8cd5-969d06e56183")
+		(uuid "d82110c8-8170-4f18-aa8f-77f64bccc0e1")
 	)
 	(pad "12" smd rect
 		(at 2.61 2)
 		(size 0.3 4)
 		(layers "F.Cu" "F.Mask")
-		(uuid "2716342a-283e-4a74-9d40-16e9c69dae26")
+		(uuid "fac201ad-8b4d-430e-9b72-56c3398fe113")
 	)
 	(embedded_fonts no)
 )
